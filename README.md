@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Cognifyz Task 1: Restaurant Rating Prediction
+# 🍽️ Restaurant Rating Prediction
 
 ## 🎯 Objective
 
