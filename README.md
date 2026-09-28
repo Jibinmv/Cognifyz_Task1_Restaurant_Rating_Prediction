@@ -323,7 +323,7 @@ Jupyter Notebook
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Restaurant_Rating_Prediction.git
+git clone https://github.com/Jibinmv/Cognifyz_Task1_Restaurant_Rating_Prediction.git
 cd Restaurant_Rating_Prediction
 
 2. Create and activate a virtual environment
@@ -381,4 +381,3 @@ Jibin
 B.Tech Computer Science Engineering Student
 
 ⭐ If you find this project useful, consider giving it a star!
->>>>>>> bcf2090cb7710c4d2747614195f9d726f383864d
