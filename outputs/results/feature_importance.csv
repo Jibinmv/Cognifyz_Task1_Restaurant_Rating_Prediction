@@ -1,0 +1,1707 @@
+Feature,Importance
+num__Votes,0.9445278413450796
+num__Longitude,0.01728135640496137
+num__Latitude,0.010688108259648285
+num__Average Cost for two,0.005439423597298175
+cat__Country Code_30,0.0008098730876356213
+"cat__Cuisines_North Indian, Chinese",0.0006887259438319077
+cat__Has Online delivery_Yes,0.0005704686437396888
+cat__Cuisines_Chinese,0.0005179542560803706
+"cat__Cuisines_Pizza, Fast Food",0.0005030872515803497
+num__Price range,0.0004898320388933032
+cat__Cuisines_North Indian,0.000485390016271232
+"cat__Cuisines_North Indian, Mughlai",0.00047469155794393857
+"cat__Cuisines_North Indian, Mughlai, Chinese",0.00044815711220766284
+"cat__Cuisines_American, Fast Food, Salad, Healthy Food",0.00037422963388074077
+"cat__Cuisines_Italian, Pizza, Bakery",0.0003713228792415908
+"cat__Cuisines_North Indian, Chinese, Fast Food",0.00036163875149580136
+cat__Has Online delivery_No,0.0003509182699601565
+"cat__Cuisines_Bakery, Desserts",0.00028857868390736526
+cat__Cuisines_Cafe,0.00028303166829098705
+"cat__Cuisines_Italian, Pizza, Fast Food",0.00028182036885826366
+cat__Cuisines_South Indian,0.000269972110067291
+"cat__Cuisines_Biryani, North Indian",0.0002551886871565456
+"cat__Cuisines_North Indian, Chinese, Mughlai",0.000252804116017852
+cat__Cuisines_Fast Food,0.0002402574382308939
+cat__Has Table booking_Yes,0.00022394648053857298
+cat__City_Noida,0.00022279440702002574
+"cat__Cuisines_Chinese, North Indian",0.00020444490272847435
+"cat__Cuisines_North Indian, Chinese, Continental",0.00020429674920211237
+"cat__Cuisines_American, Fast Food",0.0002003660192862869
+cat__Cuisines_Ice Cream,0.0001996016048980186
+"cat__Cuisines_Chinese, Fast Food",0.00019149990691817988
+"cat__Cuisines_North Indian, Fast Food",0.00018670623788955297
+cat__City_Montville,0.00018555444626411062
+"cat__Cuisines_Burger, German, Sandwich",0.00017656659019673964
+"cat__Cuisines_South Indian, North Indian, Chinese",0.00017644723611655712
+"cat__Cuisines_Bakery, Fast Food",0.00017217801815867228
+"cat__Cuisines_North Indian, Fast Food, Italian, Asian",0.00017215815644383128
+cat__City_New Delhi,0.00016032002274235925
+"cat__Cuisines_Lebanese, Arabian, Moroccan",0.0001475568036945073
+cat__Has Table booking_No,0.0001412220155537445
+cat__City_Puducherry,0.00013759450797148703
+"cat__Cuisines_North Indian, Chinese, Sri Lankan",0.00013198020653680615
+cat__City_Gurgaon,0.00012586837384885054
+"cat__Cuisines_Fast Food, Beverages",0.000123842997831395
+"cat__Cuisines_North Indian, South Indian, Chinese",0.00012360293708377698
+"cat__Cuisines_Chinese, North Indian, Mughlai",0.00012124251413657116
+"cat__Cuisines_American, Fast Food, Burger",0.00011759804171438407
+"cat__Cuisines_Lucknowi, Mughlai",0.0001168787654858589
+"cat__Cuisines_Bakery, Desserts, Fast Food",0.00011663338076833858
+"cat__Cuisines_Chinese, North Indian, South Indian, Fast Food",0.00011472452137890004
+cat__Cuisines_Pizza,0.00011156718121214833
+cat__Cuisines_Finger Food,0.00010782738899274735
+"cat__Cuisines_Continental, European, North Indian",0.00010688478456025734
+"cat__Cuisines_North Indian, South Indian, Street Food, Chinese, Fast Food, Mithai",0.00010335578441621725
+"cat__Cuisines_Continental, Healthy Food",0.00010314550917502345
+cat__Cuisines_Modern Indian,0.00010075887554786007
+"cat__Cuisines_Mexican, American, Healthy Food",9.088849699876521e-05
+"cat__Cuisines_North Indian, South Indian, Chinese, Fast Food",8.735586961601565e-05
+"cat__Cuisines_Tibetan, Chinese",8.685048495089313e-05
+cat__Cuisines_Seafood,8.625625989966278e-05
+"cat__Cuisines_Ice Cream, Desserts",8.625240498385747e-05
+"cat__Cuisines_Cafe, Tea",8.500296873437775e-05
+"cat__Cuisines_Burger, Fast Food",8.478049181683866e-05
+cat__Cuisines_Beverages,8.408214209452774e-05
+cat__Cuisines_American,8.405071676538375e-05
+cat__City_Amritsar,8.350414168038457e-05
+"cat__Cuisines_Italian, Pizza",8.33790844736835e-05
+"cat__Cuisines_Asian, Continental, Fast Food",7.864787557918905e-05
+"cat__Cuisines_Continental, Chinese, North Indian",7.839377111272957e-05
+"cat__Cuisines_North Indian, Chinese, South Indian, Street Food, Mithai",7.815627681138823e-05
+cat__Cuisines_Continental,7.626830461697227e-05
+"cat__Cuisines_Mughlai, North Indian",7.584814821638736e-05
+cat__Cuisines_Street Food,7.520298822024053e-05
+"cat__Cuisines_North Indian, South Indian",7.515126820482166e-05
+cat__Cuisines_Turkish,7.395798299854636e-05
+"cat__Cuisines_Desserts, Ice Cream",7.312644531391726e-05
+cat__City_Hyderabad,7.27058582194183e-05
+"cat__Cuisines_North Indian, South Indian, Fast Food",6.956677735148298e-05
+cat__Cuisines_Bakery,6.861046909505536e-05
+"cat__Cuisines_Biryani, Mughlai",6.816686034295608e-05
+cat__Country Code_215,6.58103043287574e-05
+"cat__Cuisines_Continental, Italian",6.573640725281483e-05
+cat__City_Dehradun,6.50256049072948e-05
+"cat__Cuisines_South Indian, Chinese",6.452473513408996e-05
+cat__Cuisines_Desserts,6.444880302998676e-05
+cat__Cuisines_Asian,6.418126437013211e-05
+"cat__Cuisines_Chinese, Mughlai, North Indian",6.39468815990143e-05
+"cat__Cuisines_Street Food, Fast Food",6.346830512808027e-05
+"cat__Cuisines_Asian, Chinese",6.295060244124762e-05
+"cat__Cuisines_Mithai, Street Food",6.0949881330692666e-05
+"cat__Cuisines_American, Italian",6.0863863293488484e-05
+"cat__Cuisines_Italian, Continental",6.0803828764766206e-05
+cat__City_Patna,5.961580924451396e-05
+"cat__Cuisines_Seafood, American",5.823699942422074e-05
+"cat__Cuisines_Chinese, Thai, Asian",5.752571709584329e-05
+"cat__Cuisines_North Indian, South Indian, Chinese, Mughlai",5.691374138197459e-05
+"cat__Cuisines_Cafe, Continental, Italian",5.679491974425867e-05
+"cat__Cuisines_Chinese, Seafood",5.6662773424566925e-05
+"cat__Cuisines_Continental, Italian, North Indian",5.502639703105826e-05
+"cat__Cuisines_Continental, North Indian, Chinese",5.4424274287429296e-05
+"cat__Cuisines_Fast Food, North Indian, Chinese",5.429424162309408e-05
+"cat__Cuisines_Fast Food, North Indian, Desserts, Ice Cream",5.2480067365238603e-05
+"cat__Cuisines_Asian, Chinese, Thai, Japanese",5.1736979455772246e-05
+"cat__Cuisines_Cafe, Italian, Continental, Mexican",5.139742893485554e-05
+"cat__Cuisines_Persian, Arabian, Lebanese, North Indian",5.13904285881215e-05
+cat__Cuisines_Mughlai,5.135659992334518e-05
+"cat__Cuisines_North Indian, Chinese, Mexican, Lebanese, Italian, Fast Food",5.105337998562466e-05
+"cat__Cuisines_Continental, North Indian, Chinese, Mughlai, Asian",5.0976965404510444e-05
+"cat__Cuisines_American, Continental, Burger",5.0925356836472654e-05
+"cat__Cuisines_Japanese, Sushi",5.058079016914083e-05
+cat__Is delivering now_Yes,5.0485031082206946e-05
+"cat__Cuisines_Fast Food, Pizza",4.9747466192688196e-05
+"cat__Cuisines_Patisserie, Coffee and Tea",4.9617228026191824e-05
+cat__City_Bogor,4.9573862233293656e-05
+"cat__Cuisines_Fast Food, Chinese",4.842462537091781e-05
+"cat__Cuisines_Chinese, Thai",4.8385349947695644e-05
+"cat__Cuisines_Fast Food, Burger",4.7834267629498285e-05
+cat__City_Jaipur,4.778911395183124e-05
+cat__City_Aurangabad,4.7610008592900906e-05
+"cat__Cuisines_Italian, Continental, North Indian, Chinese",4.7267313006961035e-05
+"cat__Cuisines_American, Tex-Mex, Italian, Mexican, North Indian",4.702511471640811e-05
+"cat__Cuisines_North Indian, Italian, Chinese",4.698982991807663e-05
+"cat__Cuisines_North Indian, Continental, Fast Food",4.664537467817616e-05
+"cat__Cuisines_Cafe, North Indian, Chinese",4.621395171336085e-05
+"cat__Cuisines_Continental, North Indian",4.5009779849027445e-05
+"cat__Cuisines_Lebanese, Chinese, Fast Food",4.2954473671492656e-05
+"cat__Cuisines_Latin American, Mexican",4.2921699205758774e-05
+"cat__Cuisines_North Indian, Mithai, South Indian, Street Food, Chinese",4.254358750394429e-05
+"cat__Cuisines_South Indian, North Indian",4.198232586832195e-05
+cat__Currency_Rand(R),4.1904717739004444e-05
+cat__Cuisines_Thai,4.188819661604668e-05
+cat__City_Goa,4.1869434006091125e-05
+cat__Cuisines_French,4.1582646115313164e-05
+"cat__Cuisines_Pizza, Sandwich",4.127697390677988e-05
+"cat__Cuisines_Continental, Italian, Pizza, Asian",4.1120287861452136e-05
+"cat__Cuisines_Fast Food, North Indian, Chinese, South Indian, Ice Cream",4.090451135913209e-05
+"cat__Cuisines_North Indian, Chinese, Continental, Fast Food",4.01489428855551e-05
+"cat__Cuisines_European, American, Street Food",3.992835528415807e-05
+"cat__Cuisines_BBQ, Breakfast, Southern",3.915665692981314e-05
+"cat__Cuisines_North Indian, Street Food",3.899962628634591e-05
+"cat__Cuisines_North Indian, Street Food, Chinese, South Indian",3.889841089986254e-05
+"cat__Cuisines_North Indian, Rajasthani",3.856733985147981e-05
+"cat__Cuisines_North Indian, South Indian, Chinese, Mithai",3.847229642247966e-05
+"cat__Cuisines_Chinese, Fast Food, North Indian",3.84529400064057e-05
+"cat__Cuisines_Mughlai, North Indian, Bengali, Continental",3.8006986206932255e-05
+cat__City_Ranchi,3.794092519557957e-05
+"cat__Cuisines_Cafe, Italian",3.78765102397721e-05
+"cat__Cuisines_Burger, Desserts, Fast Food",3.716002772790826e-05
+"cat__Cuisines_Cafe, Italian, Continental, Chinese",3.6563304856868606e-05
+"cat__Cuisines_Raw Meats, North Indian, Fast Food",3.6217089726406076e-05
+"cat__Cuisines_Continental, North Indian, Chinese, Cafe",3.556735308188711e-05
+cat__City_Pensacola,3.556147852472059e-05
+cat__City_Nashik,3.4877551050002e-05
+"cat__Cuisines_North Indian, Biryani",3.407526931927224e-05
+"cat__Cuisines_Continental, American, Italian",3.347251139630958e-05
+cat__City_Faridabad,3.252565588117698e-05
+"cat__Cuisines_Cafe, Italian, Continental",3.237666272197283e-05
+cat__Cuisines_Modern Australian,3.138805571932681e-05
+"cat__Cuisines_Cafe, Continental, Chinese, Italian",3.122137683743313e-05
+"cat__Cuisines_Continental, Italian, Asian, Indian",3.09569614942204e-05
+"cat__Cuisines_North Indian, Continental",3.092418740513399e-05
+"cat__Cuisines_North Indian, Street Food, South Indian, Fast Food, Chinese",3.089364109562192e-05
+"cat__Cuisines_North Indian, Chinese, Italian",3.0667742387335535e-05
+"cat__Cuisines_American, Seafood, Steak",3.0155035788853724e-05
+"cat__Cuisines_American, Caribbean, Seafood",2.9820350149670894e-05
+cat__Cuisines_Italian,2.9785485718469077e-05
+"cat__Cuisines_North Indian, South Indian, Mughlai",2.9347835989797728e-05
+"cat__Cuisines_North Indian, European, Mediterranean",2.9205062260846217e-05
+cat__City_Pune,2.8556063069667706e-05
+"cat__Cuisines_American, Bar Food, Sandwich",2.8354419897870987e-05
+cat__City_Mc Millan,2.8158940632792062e-05
+cat__Cuisines_Southern,2.7756378456945114e-05
+"cat__Cuisines_Cafe, American, Desserts, Italian, Bakery",2.7660617010381057e-05
+"cat__Cuisines_North Indian, Chinese, Italian, Continental",2.745550062464562e-05
+"cat__Cuisines_Street Food, South Indian",2.6850251664373147e-05
+cat__City_Valdosta,2.662591390531662e-05
+"cat__Cuisines_North Indian, Chinese, Italian, Fast Food",2.6396614714474753e-05
+"cat__Cuisines_Cafe, Desserts",2.6256376440328793e-05
+"cat__Cuisines_North Indian, South Indian, Chinese, Fast Food, Mithai",2.590913579934883e-05
+"cat__Cuisines_North Indian, American, Asian, Biryani",2.5627442133860726e-05
+"cat__Cuisines_Continental, North Indian, Chinese, Asian",2.508125801627436e-05
+cat__Cuisines_Mithai,2.4847932797790654e-05
+"cat__Cuisines_North Indian, Fast Food, Mughlai",2.4439048677357776e-05
+"cat__Cuisines_Indian, North Indian",2.4439048677350414e-05
+"cat__Cuisines_Mithai, Street Food, North Indian",2.4151145587087795e-05
+cat__Country Code_189,2.364985953944615e-05
+"cat__Cuisines_Mithai, Street Food, South Indian, Chinese, North Indian",2.3610059294629915e-05
+"cat__Cuisines_Continental, American",2.3176346056698305e-05
+"cat__Cuisines_Italian, North Indian, Continental",2.3044283240570705e-05
+"cat__Cuisines_Italian, World Cuisine",2.284133617624539e-05
+"cat__Cuisines_Continental, Chinese, Thai",2.2545221687883632e-05
+cat__Cuisines_Hyderabadi,2.2371350837714173e-05
+"cat__Cuisines_Beverages, Salad",2.2350261654306804e-05
+"cat__Cuisines_Cafe, Continental, Italian, Mexican, Chinese, American",2.216848356667158e-05
+"cat__Cuisines_Cafe, Fast Food, Italian",2.1869610866184398e-05
+"cat__Cuisines_American, Burger, Fast Food",2.1758984891058493e-05
+"cat__Cuisines_North Indian, Chinese, South Indian, Fast Food",2.1637692002859057e-05
+cat__Cuisines_Tapas,2.1374487118451918e-05
+"cat__Cuisines_Thai, European, Mexican, North Indian, Chinese, Cafe",2.1181146351134464e-05
+"cat__Cuisines_North Indian, Chinese, South Indian",2.079986322541056e-05
+"cat__Cuisines_Continental, Kerala",2.0735227480584104e-05
+cat__Cuisines_International,2.0670088786254933e-05
+"cat__Cuisines_North Indian, Biryani, Fast Food",2.0501953707089114e-05
+"cat__Cuisines_Continental, Cafe",2.0150754303576284e-05
+"cat__Cuisines_Cafe, British",1.9957924118713907e-05
+"cat__Cuisines_Asian, North Indian, Continental",1.9788897145410463e-05
+"cat__Cuisines_Seafood, South Indian, Andhra, Hyderabadi, Goan",1.9729448088798254e-05
+"cat__Cuisines_Salad, Continental",1.9633845655385354e-05
+cat__Currency_Emirati Diram(AED),1.9558710744768674e-05
+cat__City_Ahmedabad,1.951711956360182e-05
+"cat__Cuisines_Fast Food, Italian",1.9400435339197065e-05
+"cat__Cuisines_Kebab, Turkish Pizza, D�_ner",1.9389631363477565e-05
+"cat__Cuisines_North Indian, Chinese, Continental, Italian, Burger",1.913806920945092e-05
+"cat__Cuisines_Brazilian, Grill",1.908846105384696e-05
+"cat__Cuisines_North Indian, Italian, Chinese, American",1.898105794813789e-05
+"cat__Cuisines_Continental, Middle Eastern, Asian",1.8872456853746048e-05
+"cat__Cuisines_Mediterranean, Italian",1.8821426753744598e-05
+"cat__Cuisines_Japanese, Asian",1.8661232384207014e-05
+"cat__Cuisines_Ice Cream, Desserts, Beverages",1.8656332878971663e-05
+"cat__Cuisines_Continental, North Indian, American, Italian, Mexican",1.8568757641501897e-05
+"cat__Cuisines_North Indian, Chinese, Mexican, Italian, Thai, Lebanese",1.843874200679546e-05
+"cat__Cuisines_North Indian, Italian, Mexican",1.839163081089962e-05
+"cat__Cuisines_Continental, American, Asian, North Indian",1.8318721173791905e-05
+cat__Cuisines_BBQ,1.8209986187366363e-05
+cat__Cuisines_Indonesian,1.791478308890858e-05
+"cat__Cuisines_North Indian, Chinese, Continental, Italian",1.7780664837846084e-05
+cat__City_Bhubaneshwar,1.7489778392422158e-05
+"cat__Cuisines_Asian, Continental, Italian, North Indian",1.7460078474669524e-05
+cat__Cuisines_Sushi,1.7429693866294088e-05
+"cat__Cuisines_Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai",1.703763465963118e-05
+cat__Cuisines_Maharashtrian,1.6757054565016512e-05
+"cat__Cuisines_Cafe, Charcoal Grill, Steak",1.659420346769303e-05
+"cat__Cuisines_Cafe, North Indian, Chinese, Continental",1.653901577113008e-05
+cat__Cuisines_Burger,1.653537025542274e-05
+"cat__Cuisines_American, Burger",1.6165470028250606e-05
+"cat__Cuisines_North Indian, Continental, Salad",1.6155269585954024e-05
+"cat__Cuisines_Japanese, Korean",1.5733631297717566e-05
+"cat__Cuisines_Italian, Lebanese, Fast Food, Bakery",1.5642403884809224e-05
+"cat__Cuisines_Bakery, Cafe, Fast Food",1.5530104113192374e-05
+"cat__Cuisines_Southern, Cajun, Soul Food",1.5357981054025116e-05
+"cat__Cuisines_Mithai, North Indian",1.5347205557235716e-05
+"cat__Cuisines_Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese",1.4945293561081282e-05
+"cat__Cuisines_North Indian, Continental, Asian",1.480922022160985e-05
+"cat__Cuisines_Sushi, Teriyaki",1.4744106916953797e-05
+"cat__Cuisines_Raw Meats, Fast Food",1.4616177302660879e-05
+"cat__Cuisines_Japanese, Steak, Sushi",1.4560498618940485e-05
+"cat__Cuisines_Healthy Food, Fast Food",1.4088230793007352e-05
+cat__City_Inner City,1.4062026711607617e-05
+"cat__Cuisines_Pizza, Italian",1.3929618527477652e-05
+"cat__Cuisines_American, BBQ, Sandwich",1.3823192677822571e-05
+"cat__Cuisines_Continental, Mexican, Mediterranean",1.3743691958770122e-05
+"cat__Cuisines_North Indian, South Indian, Chinese, Mithai, Fast Food",1.3672175961432825e-05
+"cat__Cuisines_Chinese, Dim Sum",1.3592662376807456e-05
+cat__Cuisines_Naga,1.3409249500638047e-05
+"cat__Cuisines_Fast Food, North Indian",1.3393879570952888e-05
+"cat__Cuisines_Continental, Italian, North Indian, Mughlai",1.3195922844465621e-05
+cat__City_Dubuque,1.3117522479953772e-05
+cat__City_Middleton Beach,1.2713868602011594e-05
+"cat__Cuisines_Ice Cream, Desserts, Continental",1.2703059959465465e-05
+"cat__Cuisines_Chinese, Thai, Japanese",1.2693535997876788e-05
+"cat__Cuisines_Fast Food, Street Food",1.2624467552235824e-05
+"cat__Cuisines_Asian, Chinese, Thai, Vietnamese",1.2528684881064755e-05
+"cat__Cuisines_Cafe, Continental, Italian, Chinese, North Indian",1.2211502985271052e-05
+"cat__Cuisines_North Indian, Italian, Chinese, Fast Food",1.1906215410692412e-05
+"cat__Cuisines_Chinese, Continental, North Indian",1.1873914556232665e-05
+"cat__Cuisines_Cafe, Healthy Food, Continental",1.187333828724997e-05
+"cat__Cuisines_Burger, Fast Food, Chinese, Bakery",1.1598829823903489e-05
+cat__Currency_Dollar($),1.1515953617362799e-05
+cat__Cuisines_Korean,1.1389974281719096e-05
+cat__Cuisines_Steak,1.1236871113157711e-05
+"cat__Cuisines_Mexican, Italian",1.1165818022391792e-05
+"cat__Cuisines_Cafe, Italian, Lebanese",1.1133804494401359e-05
+cat__Cuisines_Kebab,1.1120010090091789e-05
+"cat__Cuisines_North Indian, Continental, Finger Food",1.0861799412154662e-05
+cat__Cuisines_Arabian,1.0798389744923024e-05
+"cat__Cuisines_Chinese, Continental, Italian, North Indian",1.064647764923726e-05
+"cat__Cuisines_Cafe, Bakery",1.057153990303679e-05
+"cat__Cuisines_European, Continental",1.0562672858605587e-05
+cat__City_Davenport,1.0520739402317173e-05
+"cat__Cuisines_Desserts, Sandwich",1.0500197393796647e-05
+cat__City_Tampa Bay,1.0414641404637477e-05
+"cat__Cuisines_American, Sandwich, Seafood",1.0380724994421418e-05
+"cat__Cuisines_Indian, South Indian",1.0307768969077819e-05
+"cat__Cuisines_North Indian, Asian, European",1.0250976853545743e-05
+cat__City_Pretoria,1.0226221316008017e-05
+"cat__Cuisines_Healthy Food, North Indian, Beverages",1.000518302019757e-05
+"cat__Cuisines_North Indian, Italian, Asian, American",9.614270472643983e-06
+cat__Currency_Indian Rupees(Rs.),9.519440317769113e-06
+"cat__Cuisines_American, Italian, Bakery, Deli, Burger, Sandwich, Pizza",9.504074485638961e-06
+"cat__Cuisines_Street Food, South Indian, Mithai",9.504074485633011e-06
+"cat__Cuisines_Chinese, Italian, Fast Food",9.49977205266035e-06
+"cat__Cuisines_North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Mithai",9.450208024537443e-06
+cat__Cuisines_Mexican,9.422758502034492e-06
+"cat__Cuisines_Breakfast, Diner",9.391996106115806e-06
+cat__City_Bangalore,9.276045536913588e-06
+"cat__Cuisines_North Indian, European, Asian, Mediterranean",9.272333633925295e-06
+"cat__Cuisines_Chinese, North Indian, South Indian",9.200322716201044e-06
+"cat__Cuisines_Chinese, Continental, Singaporean",9.107390163513024e-06
+cat__Country Code_216,8.945213261341016e-06
+"cat__Cuisines_Healthy Food, Juices, Salad, Italian, Continental",8.80277790747657e-06
+"cat__Cuisines_Street Food, Mithai",8.793264014674665e-06
+"cat__Cuisines_Charcoal Grill, Italian, North Indian, European, Indonesian, Thai",8.608489091182643e-06
+"cat__Cuisines_Street Food, Mithai, South Indian, North Indian, Chinese",8.600214710882497e-06
+"cat__Cuisines_Indian, Street Food",8.59726890080025e-06
+"cat__Cuisines_Cafe, Continental, Fast Food",8.32951027800989e-06
+"cat__Cuisines_Mediterranean, Italian, Continental, Spanish, North Indian",8.21714738281809e-06
+"cat__Cuisines_North Indian, European, Chinese",8.109150883778538e-06
+cat__City_Secunderabad,8.007548407986906e-06
+"cat__Cuisines_Japanese, Sushi, Asian",7.998222937438218e-06
+"cat__Cuisines_Bakery, Chinese, Fast Food",7.910918287775917e-06
+cat__City_Vadodara,7.840839938510874e-06
+"cat__Cuisines_Chinese, Italian, Continental, North Indian",7.793712914649106e-06
+"cat__Cuisines_Italian, Pizza, Sandwich",7.716728123939514e-06
+"cat__Cuisines_Cafe, North Indian, Italian, Japanese, Fast Food",7.703340799101334e-06
+"cat__Cuisines_Continental, North Indian, Chinese, European, Asian",7.666935596834666e-06
+"cat__Cuisines_Continental, Chinese, Thai, Mughlai, North Indian",7.572282070946899e-06
+"cat__Cuisines_Continental, North Indian, Chinese, Italian",7.533922484125567e-06
+"cat__Cuisines_Mithai, South Indian, Chinese, Street Food, North Indian",7.478857811621437e-06
+"cat__Cuisines_American, Southern",7.433388310128939e-06
+cat__Cuisines_Healthy Food,7.397406838442227e-06
+"cat__Cuisines_American, Coffee and Tea",7.393116468387786e-06
+"cat__Cuisines_Assamese, Chinese",7.393116468378252e-06
+cat__City_Indore,7.387031598849843e-06
+"cat__Cuisines_North Indian, Chinese, Finger Food",7.362077487444408e-06
+"cat__Cuisines_South Indian, Desserts, Beverages",7.329969044688912e-06
+"cat__Cuisines_North Indian, Mughlai, Chinese, Fast Food",7.3243792002026396e-06
+"cat__Cuisines_Finger Food, Continental, North Indian, Italian, Chinese",7.232389864350009e-06
+"cat__Cuisines_Italian, Continental, Mexican, Japanese, American, British",7.153102170590579e-06
+cat__City_Lucknow,6.856923662514061e-06
+"cat__Cuisines_Bakery, Fast Food, Desserts",6.8339845690304275e-06
+cat__City_Allahabad,6.815053863853138e-06
+"cat__Cuisines_North Indian, Mughlai, Biryani",6.679921220209736e-06
+"cat__Cuisines_Italian, Seafood, Vegetarian",6.578166964846563e-06
+"cat__Cuisines_North Indian, Chinese, South Indian, Seafood, Chettinad",6.461680700540038e-06
+"cat__Cuisines_Cafe, American, Continental, Nepalese",6.43779195353371e-06
+"cat__Cuisines_Fast Food, North Indian, Chinese, Desserts",6.4127427182623835e-06
+cat__City_Gainesville,6.389802350786879e-06
+"cat__Cuisines_Biryani, North Indian, Fast Food",6.389112997361264e-06
+"cat__Cuisines_Ice Cream, Fast Food, Beverages",6.358313040519231e-06
+"cat__Cuisines_Chinese, Seafood, North Indian, Biryani",6.338405751350939e-06
+cat__Cuisines_German,6.32457650244155e-06
+cat__City_Dubai,6.184030357945082e-06
+"cat__Cuisines_South Indian, Chinese, Continental, Italian, North Indian",6.184030357943266e-06
+cat__Cuisines_Restaurant Cafe,6.064135891808047e-06
+"cat__Cuisines_Hyderabadi, Fast Food",5.919808692900993e-06
+"cat__Cuisines_Continental, European, Asian, North Indian, Chinese, Italian",5.915845367922075e-06
+"cat__Cuisines_Finger Food, Italian, North Indian",5.841474740442029e-06
+"cat__Cuisines_International, Tapas, Vegetarian",5.679211553213352e-06
+"cat__Cuisines_Cafe, Fast Food",5.643153067146472e-06
+cat__Country Code_14,5.636392101035584e-06
+"cat__Cuisines_Arabian, Lebanese",5.575953161335174e-06
+"cat__Cuisines_Chinese, South Indian",5.540871784594124e-06
+cat__City_Augusta,5.526905425165062e-06
+"cat__Cuisines_Healthy Food, Continental, Italian",5.515524662542687e-06
+"cat__Cuisines_Lebanese, Chinese",5.430746047757081e-06
+"cat__Cuisines_Healthy Food, Continental",5.270480418703259e-06
+"cat__Cuisines_Cafe, Italian, Continental, Mexican, Mediterranean",5.027596753954234e-06
+"cat__Cuisines_South Indian, Fast Food",5.016636872003876e-06
+"cat__Cuisines_Cafe, Italian, Continental, Desserts",5.013156962961148e-06
+"cat__Cuisines_North Indian, Mediterranean, Asian",4.9736125420589316e-06
+"cat__Cuisines_Mediterranean, American, Asian",4.9736125420469266e-06
+"cat__Cuisines_Burger, Desserts, Bar Food",4.929871139939485e-06
+cat__City_Coimbatore,4.90846141384586e-06
+"cat__Cuisines_Mexican, Italian, American",4.846260525408106e-06
+cat__City_Surat,4.810626256827432e-06
+"cat__Cuisines_Japanese, American, North Indian, Fast Food",4.752037242816757e-06
+"cat__Cuisines_Raw Meats, Fast Food, North Indian",4.664592179230996e-06
+"cat__Cuisines_Mithai, North Indian, Chinese, Street Food",4.656079748677063e-06
+"cat__Cuisines_Italian, Chinese, North Indian",4.543369242569027e-06
+"cat__Cuisines_Beverages, Desserts",4.472379098154866e-06
+"cat__Cuisines_Chinese, Seafood, Asian",4.45613952263333e-06
+"cat__Cuisines_American, Breakfast",4.453974245922199e-06
+"cat__Cuisines_North Indian, Chinese, South Indian, Mithai",4.405691386727589e-06
+"cat__Cuisines_American, Italian, Pizza",4.342015378410751e-06
+"cat__Cuisines_Seafood, Western",4.265718899966606e-06
+"cat__Cuisines_Continental, Mexican",4.259408664906937e-06
+"cat__Cuisines_Street Food, North Indian",4.248082601989288e-06
+cat__Cuisines_Greek,4.231421409691017e-06
+cat__City_Guwahati,4.095379187553111e-06
+"cat__Cuisines_Tex-Mex, American",4.090384511532365e-06
+"cat__Cuisines_Burger, Desserts, Vegetarian",4.047728961559864e-06
+"cat__Cuisines_American, European",3.9645265265643024e-06
+"cat__Cuisines_Chinese, Steak",3.927193348565013e-06
+"cat__Cuisines_Continental, North Indian, Asian",3.8176922107705825e-06
+"cat__Cuisines_Italian, Mexican, Chinese, Thai, North Indian",3.7185313741267883e-06
+"cat__Cuisines_Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean",3.7038336216720223e-06
+"cat__Cuisines_Mithai, Chinese, Street Food",3.7023050553985535e-06
+"cat__Cuisines_Seafood, Italian",3.63469539404816e-06
+"cat__Cuisines_Continental, Chinese, Italian, Cafe",3.618346148672582e-06
+"cat__Cuisines_Continental, Fast Food, Asian, Italian",3.5048848442665695e-06
+"cat__Cuisines_International, Pizza",3.478517076360553e-06
+"cat__Cuisines_North Indian, Hyderabadi, Kashmiri, Chinese",3.4785170763405775e-06
+"cat__Cuisines_Chinese, North Indian, Italian",3.4649676407841075e-06
+"cat__Cuisines_Cafe, Burger, Tapas, South African, European, Grill",3.461614661003988e-06
+"cat__Cuisines_North Indian, European",3.4597255675253288e-06
+"cat__Cuisines_American, Italian, North Indian, Chinese, Lebanese",3.435922989692707e-06
+"cat__Cuisines_Juices, Beverages",3.4359229896925056e-06
+"cat__Cuisines_Continental, Chinese, Biryani, North Indian",3.4359229896925056e-06
+"cat__Cuisines_North Indian, Chinese, Street Food, Mithai",3.3381143462781318e-06
+"cat__Cuisines_Chinese, Thai, Japanese, Tibetan",3.205663800187802e-06
+"cat__Cuisines_North Indian, Asian",3.1992891749766187e-06
+"cat__Cuisines_Mithai, South Indian",3.199289174974904e-06
+"cat__Cuisines_Bengali, North Indian",3.0830005574594783e-06
+"cat__Cuisines_Continental, Italian, Chinese",3.0424347606470626e-06
+"cat__Cuisines_Beverages, Fast Food",3.028912828380293e-06
+cat__City_Sharjah,2.939210410006407e-06
+"cat__Cuisines_Italian, North Indian, Chinese, Mughlai",2.9308788194302725e-06
+"cat__Cuisines_Continental, Italian, American",2.8396057766079876e-06
+"cat__Cuisines_North Indian, Continental, Chinese, Italian, Mexican",2.8396057766077856e-06
+"cat__Cuisines_South Indian, Seafood, Kerala",2.7154498530468373e-06
+"cat__Cuisines_Italian, Continental, European, Cafe",2.6890206217833028e-06
+"cat__Cuisines_Street Food, Chinese, Mithai",2.679993948634583e-06
+cat__Cuisines_Biryani,2.598915382206562e-06
+"cat__Cuisines_North Indian, Asian, Continental",2.555645198948722e-06
+cat__City_Abu Dhabi,2.5556451989483186e-06
+"cat__Cuisines_North Indian, Mughlai, Chinese, Continental, Fast Food",2.55564519894504e-06
+"cat__Cuisines_Continental, Seafood, North Indian, Asian",2.5556451989423665e-06
+"cat__Cuisines_Cafe, Chinese, Fast Food",2.52409402364821e-06
+"cat__Cuisines_North Indian, Andhra, Chettinad, Bengali, Mughlai, Chinese",2.4339478085122833e-06
+"cat__Cuisines_British, Chinese, Italian",2.3190113842328358e-06
+cat__Cuisines_Vietnamese,2.3190113842304145e-06
+cat__City_Mangalore,2.2906153264635198e-06
+"cat__Cuisines_Bakery, Desserts, Cafe",2.2906153264618045e-06
+"cat__Cuisines_American, BBQ, Seafood",2.281826070485398e-06
+"cat__Cuisines_North Indian, Fast Food, Biryani",2.274805067187721e-06
+cat__City_Cape Town,2.1624690144856206e-06
+"cat__Cuisines_Desserts, Beverages",2.1035429725235035e-06
+"cat__Cuisines_Bakery, Beverages",2.0211311704039676e-06
+"cat__Cuisines_Cafe, Italian, Mexican, Bakery",2.0192752189230876e-06
+"cat__Cuisines_Bakery, Beverages, Fast Food",1.9877240436240377e-06
+"cat__Cuisines_Fast Food, Chinese, Bakery",1.950278692718865e-06
+"cat__Cuisines_Street Food, Fast Food, Chinese, South Indian, North Indian",1.925835199774375e-06
+"cat__Cuisines_Mughlai, Chinese",1.84832521459057e-06
+"cat__Cuisines_North Indian, South Indian, Fast Food, Street Food, Chinese, Mithai",1.8173476970287206e-06
+"cat__Cuisines_Burger, Steak, Seafood",1.8173476970272072e-06
+cat__City_Mandaluyong City,1.802924302609575e-06
+cat__Cuisines_Indian,1.7984169918496136e-06
+"cat__Cuisines_Lebanese, Arabian",1.7747536103768143e-06
+"cat__Cuisines_South Indian, Chinese, Street Food, Mithai",1.7209731979462006e-06
+"cat__Cuisines_Desserts, Cafe",1.7139049151657577e-06
+"cat__Cuisines_Seafood, Mediterranean",1.7037634659653777e-06
+"cat__Cuisines_Continental, North Indian, Mughlai, Burmese",1.7037634659638642e-06
+"cat__Cuisines_North Indian, Mughlai, Continental, Chinese",1.703763465961443e-06
+"cat__Cuisines_Cafe, North Indian, Continental, Chinese",1.7037634659584165e-06
+cat__City_Potrero,1.6507158855220745e-06
+"cat__Cuisines_American, Fast Food, Desserts",1.6361538046151857e-06
+"cat__Cuisines_Continental, North Indian, Italian, Asian",1.6154201751378847e-06
+cat__Country Code_214,1.5901792348993109e-06
+cat__City_Albany,1.5144564141918616e-06
+"cat__Cuisines_Cafe, Continental, North Indian, Chinese",1.51445641419055e-06
+"cat__Cuisines_North Indian, Italian, Fast Food",1.5144564141904491e-06
+"cat__Cuisines_American, North Indian, European, Asian",1.5144564141900455e-06
+"cat__Cuisines_Cafe, Belgian",1.5144564141898437e-06
+"cat__Cuisines_Italian, Chinese, Fast Food, North Indian",1.5144564141892385e-06
+"cat__Cuisines_Cafe, Italian, Chinese, North Indian",1.5144564141892385e-06
+"cat__Cuisines_North Indian, Mughlai, Italian, Chinese",1.514456414188936e-06
+"cat__Cuisines_Mithai, North Indian, South Indian, Street Food, Chinese",1.5144564141873217e-06
+"cat__Cuisines_American, Pizza, Bar Food",1.4920837626135634e-06
+"cat__Cuisines_Singaporean, Chinese, Seafood, Malay, Indian",1.4603686851107596e-06
+"cat__Cuisines_Pizza, Italian, Fast Food",1.4210321548647857e-06
+"cat__Cuisines_Desserts, Mithai",1.3965546538770336e-06
+"cat__Cuisines_Chinese, South Indian, Fast Food",1.391406830536897e-06
+cat__Currency_Pounds(��),1.2115651313559103e-06
+"cat__Cuisines_Continental, Fast Food",1.2115651313512697e-06
+"cat__Cuisines_Fast Food, Mithai, Bakery",1.2115651313504626e-06
+"cat__Cuisines_Street Food, Beverages",1.2115651313477388e-06
+"cat__Cuisines_Indian, Rajasthani",1.1831690735865943e-06
+"cat__Cuisines_Asian, Sushi, Tapas",1.1831690735864933e-06
+"cat__Cuisines_Cafe, Australian",1.1831690735856863e-06
+"cat__Cuisines_North Indian, Lebanese, Mexican, Asian, Italian, American, European",1.183169073585081e-06
+"cat__Cuisines_Biryani, North Indian, Mughlai",1.168294948089798e-06
+"cat__Cuisines_Biryani, Hyderabadi",1.1682949480879824e-06
+"cat__Cuisines_North Indian, Italian, Mexican, Asian",1.1616569086117257e-06
+"cat__Cuisines_Mughlai, North Indian, Chinese",1.1515091011374694e-06
+cat__City_Savannah,1.1358423106532025e-06
+"cat__Cuisines_North Indian, Italian",1.1358423106446274e-06
+"cat__Cuisines_Awadhi, North Indian, Mughlai",1.1358423106422064e-06
+"cat__Cuisines_Caribbean, Seafood, Steak",1.1358423106421056e-06
+"cat__Cuisines_Hyderabadi, North Indian, Biryani",1.1358423106421056e-06
+"cat__Cuisines_Indian, Pakistani",1.1358423106419037e-06
+"cat__Cuisines_Cafe, American, Italian",1.135842310641803e-06
+"cat__Cuisines_North Indian, Italian, Parsi, Asian, Kerala",1.135842310641702e-06
+cat__City_Ghaziabad,1.1054179630347106e-06
+"cat__Cuisines_Tea, Fast Food",1.0506137446565768e-06
+"cat__Cuisines_North Indian, Continental, Chinese, Italian",1.0222580795797714e-06
+"cat__Cuisines_North Indian, Middle Eastern, Pizza",1.0222580795797714e-06
+"cat__Cuisines_Bakery, Chinese",9.544230526924186e-07
+cat__Is delivering now_No,9.33013326599701e-07
+"cat__Cuisines_Continental, Italian, North Indian, Lebanese, Thai",9.276045536913992e-07
+"cat__Cuisines_Cafe, Desserts, Bakery",9.276045536908948e-07
+"cat__Cuisines_Cafe, Mughlai, North Indian",8.654036652517284e-07
+cat__Cuisines_Bengali,8.654036652504171e-07
+"cat__Cuisines_Beverages, Bar Food, Fast Food",8.654036652486012e-07
+"cat__Cuisines_Korean, Chinese",8.518817329817304e-07
+cat__City_Orlando,8.518817329808224e-07
+"cat__Cuisines_Breakfast, Mexican, Southwestern",8.21457385374941e-07
+cat__City_Ludhiana,7.988341525479103e-07
+"cat__Cuisines_Bakery, Fast Food, Street Food",7.815676851803635e-07
+cat__Cuisines_Kerala,7.57228207094468e-07
+"cat__Cuisines_Brazilian, Steak",7.572282070928537e-07
+cat__City_Colombo,7.099014441529048e-07
+"cat__Cuisines_Continental, Seafood, North Indian",7.099014441516942e-07
+"cat__Cuisines_Cafe, Kiwi",7.099014441508872e-07
+"cat__Cuisines_Kerala, Fast Food",7.099014441506854e-07
+"cat__Cuisines_Cafe, Kiwi, Ice Cream, Desserts",7.099014441504836e-07
+"cat__Cuisines_Kebab, Turkish Pizza",6.815053863875231e-07
+"cat__Cuisines_North Indian, Mughlai, Fast Food",6.116073980364737e-07
+cat__Country Code_1,5.679211553211537e-07
+cat__Cuisines_European,5.679211553193377e-07
+cat__Cuisines_Juices,4.969310109078e-07
+"cat__Cuisines_Japanese, Sushi, Teriyaki",4.96931010906085e-07
+"cat__Cuisines_Bakery, Mithai",4.867895617042927e-07
+"cat__Cuisines_Cafe, Chinese",4.867895617040909e-07
+cat__City_Columbus,4.732676294353035e-07
+"cat__Cuisines_Pizza, Fast Food, Chinese",4.732676294345973e-07
+"cat__Cuisines_Biryani, Chinese, North Indian",4.5433692425796197e-07
+"cat__Cuisines_Pizza, Bar Food",4.5433692425720536e-07
+"cat__Cuisines_North Indian, Fast Food, Continental",4.543369242570036e-07
+"cat__Cuisines_Chinese, Canadian",4.543369242569027e-07
+"cat__Cuisines_Healthy Food, North Indian, Continental",4.543369242568018e-07
+"cat__Cuisines_Rajasthani, Gujarati, Mughlai",4.5433692425649914e-07
+"cat__Cuisines_North Indian, Street Food, Fast Food",4.543369242558939e-07
+"cat__Cuisines_Chinese, Asian, Mediterranean, Continental",4.5433692425559123e-07
+"cat__Cuisines_Italian, Seafood, Mediterranean, Desserts, Cafe",4.543369242553894e-07
+"cat__Cuisines_Mexican, Spanish",4.543369242547841e-07
+"cat__Cuisines_Healthy Food, Italian, Juices, Beverages",4.3024329948586913e-07
+"cat__Cuisines_Burger, Izgara",4.259408664926307e-07
+"cat__Cuisines_Desserts, Bakery",4.259408664925298e-07
+"cat__Cuisines_British, Burger, Cafe",4.2594086649222713e-07
+"cat__Cuisines_Continental, North Indian, Chinese, Mediterranean",4.2594086649222713e-07
+"cat__Cuisines_Chinese, Fast Food, Ice Cream",4.2594086649212623e-07
+"cat__Cuisines_Biryani, North Indian, Hyderabadi",4.2594086649182357e-07
+"cat__Cuisines_Chinese, North Indian, Thai",4.259408664917227e-07
+"cat__Cuisines_Chinese, North Indian, Cafe",4.259408664915209e-07
+"cat__Cuisines_Cafe, Continental",4.2594086649081476e-07
+cat__City_Bhopal,4.2594086649081476e-07
+"cat__Cuisines_North Indian, Chinese, Seafood, Chettinad",4.2594086649081476e-07
+"cat__Cuisines_Continental, European, North Indian, French",4.2594086649081476e-07
+"cat__Cuisines_Street Food, Desserts",4.2594086649071385e-07
+"cat__Cuisines_Mithai, North Indian, South Indian, Chinese, Street Food",4.2594086649071385e-07
+"cat__Cuisines_Burger, Finger Food, Pizza",4.2594086649020944e-07
+"cat__Cuisines_European, Desserts",4.2594086648970504e-07
+"cat__Cuisines_Cafe, Fast Food, Desserts",4.259408664884945e-07
+"cat__Cuisines_Sandwich, Sushi, Tapas",3.8650189736672527e-07
+"cat__Cuisines_Japanese, Steak",3.7861410354904986e-07
+cat__City_Auckland,3.7861410354864636e-07
+"cat__Cuisines_Seafood, Continental, European, German",3.786141035484446e-07
+"cat__Cuisines_North Indian, Chinese, Continental, Thai",3.786141035478393e-07
+"cat__Cuisines_Japanese, Chinese, Thai, Malaysian, Burmese, Asian",3.786141035478393e-07
+"cat__Cuisines_North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich",3.786141035476375e-07
+"cat__Cuisines_North Indian, Continental, Italian",3.786141035476375e-07
+cat__Currency_Botswana Pula(P),3.786141035476375e-07
+"cat__Cuisines_Cafe, Bakery, Desserts",3.7861410354743573e-07
+"cat__Cuisines_Ramen, Japanese",3.7861410354743573e-07
+"cat__Cuisines_Continental, North Indian, Finger Food",3.7861410354743573e-07
+"cat__Cuisines_American, International, Sushi",3.7861410354743573e-07
+"cat__Cuisines_Chinese, Japanese, Korean, Asian",3.7861410354733483e-07
+"cat__Cuisines_Italian, Continental, Mexican, North Indian",3.786141035471331e-07
+"cat__Cuisines_North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",3.786141035471331e-07
+"cat__Cuisines_North Indian, Chinese, Thai",3.786141035471331e-07
+"cat__Cuisines_European, Arabian, Japanese, Bakery, Desserts",3.786141035471331e-07
+"cat__Cuisines_Indian, Continental",3.786141035470322e-07
+"cat__Cuisines_North Indian, Chinese, Continental, Mediterranean, Asian",3.786141035470322e-07
+"cat__Cuisines_North Indian, Fast Food, South Indian",3.786141035470322e-07
+"cat__Cuisines_American, Bar Food",3.786141035468304e-07
+"cat__Cuisines_North Indian, Continental, Chinese, Italian, Thai, Mughlai",3.786141035467295e-07
+"cat__Cuisines_Chinese, North Indian, Italian, Fast Food",3.7861410354662867e-07
+"cat__Cuisines_Burger, Pizza",3.7861410354662867e-07
+cat__City_Nagpur,3.7861410354662867e-07
+cat__City_Kanpur,3.786141035460234e-07
+"cat__Cuisines_Indian, Middle Eastern",3.6509217128006063e-07
+"cat__Cuisines_Mithai, North Indian, South Indian, Street Food",3.6509217127713503e-07
+"cat__Cuisines_Chinese, North Indian, South Indian, Healthy Food",2.94882138338398e-07
+"cat__Cuisines_Hawaiian, Seafood, Steak",2.9207373702207124e-07
+cat__Country Code_162,2.8396057766209006e-07
+"cat__Cuisines_Burger, American, Fast Food, Italian, Pizza",2.8396057766209006e-07
+"cat__Cuisines_Fast Food, Maharashtrian, North Indian",2.839605776615352e-07
+"cat__Cuisines_Healthy Food, North Indian, Chinese, Continental",2.8396057766148475e-07
+"cat__Cuisines_North Indian, Continental, Goan",2.8396057766128295e-07
+"cat__Cuisines_North Indian, Mughlai, Chinese, Continental",2.839605776608795e-07
+cat__City_London,2.839605776606777e-07
+"cat__Cuisines_Cafe, Beverages",2.839605776606777e-07
+cat__Cuisines_Brazilian,2.8396057766057684e-07
+"cat__Cuisines_North Indian, European, Asian",2.8396057766057684e-07
+"cat__Cuisines_North Indian, Rajasthani, Asian",2.8396057766047594e-07
+cat__City_Des Moines,2.8396057766047594e-07
+"cat__Cuisines_North Indian, Mughlai, Chinese, South Indian",2.8396057766047594e-07
+"cat__Cuisines_Cafe, Italian, Fast Food",2.8396057766047594e-07
+"cat__Cuisines_Cafe, North Indian, Continental",2.8396057766047594e-07
+"cat__Cuisines_Spanish, Tapas",2.839605776601733e-07
+"cat__Cuisines_Cafe, North Indian",2.839605776600724e-07
+"cat__Cuisines_Cafe, American, Mexican, Italian, Thai",2.839605776598706e-07
+cat__City_Sioux City,2.839605776598706e-07
+cat__City_Agra,2.839605776596689e-07
+"cat__Cuisines_Mughlai, Chinese, North Indian",2.8396057765704593e-07
+"cat__Cuisines_Caribbean, Seafood",1.8930705177896378e-07
+"cat__Cuisines_Malwani, North Indian, Chinese, Seafood",1.8930705177331434e-07
+cat__City_Birmingham,1.8930705177149843e-07
+"cat__Cuisines_Portuguese, African",1.7150120684409314e-18
+"cat__Cuisines_Continental, American, North Indian, Chinese",1.2105967541935986e-18
+"cat__Cuisines_Sushi, Asian",1.2105967541935986e-18
+"cat__Cuisines_Western, Fusion, Fast Food",1.109713691344132e-18
+cat__Cuisines_Unknown,8.070645027957324e-19
+"cat__Cuisines_Chinese, Japanese, Thai",8.070645027957324e-19
+"cat__Cuisines_Parsi, Iranian",8.070645027957324e-19
+"cat__Cuisines_Chinese, North Indian, Street Food",5.044153142473328e-19
+cat__City_Sandton,4.035322513978662e-19
+"cat__Cuisines_Cafe, Continental, North Indian",4.035322513978662e-19
+"cat__Cuisines_Italian, Fast Food",4.035322513978662e-19
+"cat__Cuisines_Cafe, Sandwich, Southern",4.035322513978662e-19
+"cat__Cuisines_Cafe, Italian, Pizza",4.035322513978662e-19
+"cat__Cuisines_Bengali, Fast Food",4.035322513978662e-19
+"cat__Cuisines_Asian, Thai, Chinese",4.035322513978662e-19
+"cat__Cuisines_American, Mediterranean, Seafood",4.035322513978662e-19
+cat__City_Athens,4.035322513978662e-19
+"cat__Cuisines_Chinese, Thai, Asian, Japanese, Korean, Seafood",2.017661256989331e-19
+"cat__Cuisines_Desserts, Fast Food",2.017661256989331e-19
+"cat__Cuisines_Bakery, Desserts, Fast Food, North Indian",2.017661256989331e-19
+"cat__Cuisines_North Indian, Kashmiri, Chinese, Thai, Korean",2.017661256989331e-19
+"cat__Cuisines_Mughlai, Fast Food, North Indian",1.0088306284946655e-19
+"cat__Cuisines_Turkish, Arabian, Moroccan, Lebanese",0.0
+"cat__Cuisines_Turkish, Mediterranean, Middle Eastern",0.0
+"cat__Cuisines_Chinese, Continental, North Indian, Mexican",0.0
+"cat__Cuisines_Chinese, Continental, North Indian, Mughlai",0.0
+"cat__Cuisines_Chinese, Continental, Thai",0.0
+"cat__Cuisines_Chinese, Fast Food, Bakery",0.0
+"cat__Cuisines_Chinese, Fast Food, North Indian, South Indian",0.0
+"cat__Cuisines_Chinese, Fast Food, North Indian, South Indian, Street Food, Mithai",0.0
+"cat__Cuisines_Chinese, Fast Food, Pizza",0.0
+"cat__Cuisines_Chinese, Healthy Food",0.0
+"cat__Cuisines_Chinese, Indian",0.0
+"cat__Cuisines_Thai, Chinese, Japanese",0.0
+"cat__Cuisines_Chinese, Italian, Continental",0.0
+"cat__Cuisines_Chinese, Italian, North Indian",0.0
+"cat__Cuisines_Chinese, Italian, North Indian, Mexican, Mediterranean, Thai",0.0
+"cat__Cuisines_Chinese, Japanese",0.0
+"cat__Cuisines_Chinese, Japanese, Italian, Seafood",0.0
+"cat__Cuisines_Chinese, Japanese, Thai, Asian",0.0
+"cat__Cuisines_Chinese, Japanese, Thai, Malaysian, Vietnamese, Asian",0.0
+"cat__Cuisines_Chinese, Lucknowi",0.0
+"cat__Cuisines_Chinese, Mangalorean",0.0
+"cat__Cuisines_Chinese, Mexican, Fast Food, Continental",0.0
+"cat__Cuisines_Chinese, Mexican, Italian",0.0
+"cat__Cuisines_Chinese, Mithai",0.0
+"cat__Cuisines_Chinese, Mughlai",0.0
+"cat__Cuisines_Chinese, North Eastern",0.0
+"cat__Cuisines_Chinese, Asian",0.0
+"cat__Cuisines_Chinese, Asian, Thai",0.0
+"cat__Cuisines_Chinese, Assamese",0.0
+"cat__Cuisines_Chinese, Bakery",0.0
+"cat__Cuisines_Chinese, Beverages",0.0
+"cat__Cuisines_Chinese, Cafe, Fast Food",0.0
+"cat__Cuisines_Chinese, Cafe, North Indian, Desserts",0.0
+"cat__Cuisines_Chinese, Continental",0.0
+"cat__Cuisines_Chinese, Continental, Mexican",0.0
+"cat__Cuisines_Chinese, North Indian, Continental, Mexican",0.0
+"cat__Cuisines_Chinese, North Indian, Fast Food",0.0
+"cat__Cuisines_Chinese, North Indian, Fast Food, Italian",0.0
+"cat__Cuisines_Chinese, North Indian, Italian, Continental",0.0
+"cat__Cuisines_Chinese, North Indian, Italian, Continental, Fast Food",0.0
+"cat__Cuisines_Chinese, North Indian, Italian, Mughlai",0.0
+"cat__Cuisines_Chinese, North Indian, Mughlai, Continental",0.0
+"cat__Cuisines_Chinese, North Indian, Mughlai, Pizza",0.0
+"cat__Cuisines_Chinese, North Indian, South Indian, Street Food",0.0
+"cat__Cuisines_Chinese, Pizza",0.0
+"cat__Cuisines_Chinese, Seafood, Cantonese, Dim Sum",0.0
+"cat__Cuisines_Chinese, Seafood, Japanese",0.0
+"cat__Cuisines_Chinese, Seafood, Thai",0.0
+"cat__Cuisines_Chinese, South Indian, North Indian",0.0
+"cat__Cuisines_Chinese, Street Food",0.0
+"cat__Cuisines_Chinese, Sushi, Thai",0.0
+"cat__Cuisines_Chinese, Thai, Continental, North Indian",0.0
+"cat__Cuisines_Chinese, Thai, Fast Food",0.0
+"cat__Cuisines_Chinese, Thai, Japanese, Asian",0.0
+"cat__Cuisines_Chinese, Thai, Malaysian, Indonesian",0.0
+"cat__Cuisines_Chinese, Thai, Malaysian, Vietnamese, Korean, Indonesian, Asian",0.0
+"cat__Cuisines_Chinese, Thai, North Indian, South Indian",0.0
+"cat__Cuisines_Chinese, Thai, Seafood",0.0
+"cat__Cuisines_Chinese, Thai, Seafood, Naga",0.0
+"cat__Cuisines_Chinese, Thai, Seafood, North Indian, Italian",0.0
+"cat__Cuisines_Chinese, Thai, Sushi",0.0
+"cat__Cuisines_Chinese, Thai, Tibetan",0.0
+"cat__Cuisines_Chinese, Thai, Tibetan, Japanese",0.0
+"cat__Cuisines_Chinese, Tibetan",0.0
+"cat__Cuisines_Chinese, Tibetan, Japanese",0.0
+"cat__Cuisines_Coffee and Tea, Modern Australian",0.0
+"cat__Cuisines_Coffee and Tea, Sandwich",0.0
+"cat__Cuisines_Coffee and Tea, Tapas, Australian",0.0
+"cat__Cuisines_Coffee and Tea, Tea, Modern Australian",0.0
+cat__Cuisines_Contemporary,0.0
+"cat__Cuisines_Contemporary, Burger, European",0.0
+"cat__Cuisines_Continental, American, Cafe",0.0
+"cat__Cuisines_Continental, American, Fast Food",0.0
+"cat__Cuisines_Continental, American, Italian, Bakery",0.0
+"cat__Cuisines_Continental, American, Italian, Mediterranean",0.0
+"cat__Cuisines_Continental, American, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Continental, American, Italian, North Indian, Chinese, Cafe",0.0
+"cat__Cuisines_Continental, American, Italian, Seafood, North Indian, Cafe",0.0
+"cat__Cuisines_Continental, American, Seafood",0.0
+"cat__Cuisines_Continental, American, Tex-Mex, North Indian",0.0
+"cat__Cuisines_Continental, Asian",0.0
+"cat__Cuisines_Cafe, North Indian, Lebanese, Continental",0.0
+"cat__Cuisines_Cafe, Patisserie",0.0
+"cat__Cuisines_Cafe, Patisserie, Bakery, Desserts",0.0
+"cat__Cuisines_Cafe, Pizza",0.0
+"cat__Cuisines_Cafe, South Indian, North Indian, Bakery",0.0
+"cat__Cuisines_Cafe, Spanish, Turkish, Greek",0.0
+"cat__Cuisines_Cafe, Sri Lankan, Continental, American",0.0
+"cat__Cuisines_Cafe, Street Food",0.0
+"cat__Cuisines_Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish",0.0
+"cat__Cuisines_Cafe, Tea, Desserts",0.0
+"cat__Cuisines_Cafe, Tibetan",0.0
+"cat__Cuisines_Cafe, Western",0.0
+cat__Cuisines_Cajun,0.0
+cat__Cuisines_Caribbean,0.0
+"cat__Cuisines_Caribbean, Mexican, Cajun",0.0
+"cat__Cuisines_Continental, Asian, North Indian",0.0
+"cat__Cuisines_Continental, Asian, North Indian, Italian",0.0
+"cat__Cuisines_Continental, Asian, Sushi",0.0
+"cat__Cuisines_Continental, Burger, American",0.0
+"cat__Cuisines_Continental, Burger, Pizza, North Indian, European, Finger Food",0.0
+cat__City_Tanunda,0.0
+cat__City_Trentham East,0.0
+cat__City_Varanasi,0.0
+cat__City_Victor Harbor,0.0
+cat__City_Vizag,0.0
+cat__City_Waterloo,0.0
+cat__City_Weirton,0.0
+cat__City_Wellington City,0.0
+cat__City_Winchester Bay,0.0
+cat__City_��stanbul,0.0
+cat__Cuisines_Afghani,0.0
+"cat__Cuisines_Afghani, Mughlai, Chinese",0.0
+"cat__Cuisines_Afghani, North Indian",0.0
+"cat__Cuisines_Afghani, North Indian, Pakistani, Arabian",0.0
+"cat__Cuisines_Continental, Cafe, Desserts, Bakery",0.0
+"cat__Cuisines_Continental, Cafe, Italian, Desserts",0.0
+"cat__Cuisines_Continental, Cafe, Italian, Pizza, North Indian, Chinese, Bakery, Mughlai",0.0
+"cat__Cuisines_Continental, Chinese",0.0
+"cat__Cuisines_Continental, Chinese, Fast Food",0.0
+"cat__Cuisines_Continental, Chinese, Italian, Bakery",0.0
+"cat__Cuisines_Continental, Chinese, Italian, Finger Food",0.0
+"cat__Cuisines_Continental, Chinese, Japanese, North Indian, Thai",0.0
+"cat__Cuisines_Continental, Chinese, Mexican, North Indian",0.0
+"cat__Cuisines_Continental, Chinese, North Indian, Healthy Food",0.0
+"cat__Cuisines_Continental, Chinese, North Indian, Indian",0.0
+"cat__Cuisines_Continental, Chinese, North Indian, Mughlai",0.0
+"cat__Cuisines_Continental, European",0.0
+"cat__Cuisines_Continental, Fast Food, Chinese, Charcoal Grill, Mexican",0.0
+"cat__Cuisines_Continental, Fast Food, Desserts, Indian",0.0
+"cat__Cuisines_Continental, Fast Food, Italian",0.0
+"cat__Cuisines_Continental, Fast Food, Tea",0.0
+"cat__Cuisines_Cafe, Mexican, Continental",0.0
+"cat__Cuisines_Cafe, Mexican, Italian, Continental",0.0
+"cat__Cuisines_Cafe, Mexican, Italian, Fast Food",0.0
+"cat__Cuisines_Cafe, Mexican, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Cafe, Mexican, Italian, North Indian, Fast Food",0.0
+"cat__Cuisines_Cafe, North Eastern",0.0
+"cat__Cuisines_Cafe, North Indian, Chinese, South Indian",0.0
+"cat__Cuisines_Cafe, North Indian, Fast Food",0.0
+"cat__Cuisines_Cafe, North Indian, Italian",0.0
+"cat__Cuisines_Cafe, North Indian, Italian, Chinese",0.0
+"cat__Cuisines_Continental, Finger Food",0.0
+"cat__Cuisines_Continental, Finger Food, Chinese, North Indian",0.0
+"cat__Cuisines_Continental, Goan, Seafood, North Indian",0.0
+"cat__Cuisines_Continental, Indian",0.0
+"cat__Cuisines_Continental, Italian, American, North Indian",0.0
+"cat__Cuisines_Continental, Italian, Fast Food",0.0
+"cat__Cuisines_Continental, Italian, Mediterranean",0.0
+"cat__Cuisines_Continental, Italian, Mexican",0.0
+"cat__Cuisines_Continental, Italian, North Indian, American",0.0
+"cat__Cuisines_Continental, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Continental, Italian, North Indian, Chinese, Lebanese",0.0
+"cat__Cuisines_Continental, Italian, Thai, Finger Food",0.0
+"cat__Cuisines_Continental, Juices, Cafe, Desserts, Salad, Italian",0.0
+"cat__Cuisines_Continental, Kashmiri, Italian, North Indian, Moroccan",0.0
+"cat__Cuisines_Continental, Lebanese, Mexican",0.0
+"cat__Cuisines_Continental, Mediterranean, Italian, North Indian",0.0
+"cat__Cuisines_Continental, Mexican, American, Fast Food, Italian, Chinese",0.0
+"cat__Cuisines_Continental, Mexican, Beverages, Desserts, North Indian, Chinese, Rajasthani",0.0
+"cat__Cuisines_Continental, Mexican, Burger, American, Pizza, Tex-Mex",0.0
+"cat__Cuisines_Continental, Mexican, Fast Food, Chinese",0.0
+"cat__Cuisines_Continental, Mexican, North Indian, Chinese",0.0
+"cat__Cuisines_Continental, Modern Indian, Asian",0.0
+"cat__Cuisines_Cafe, Italian, Japanese, Continental",0.0
+"cat__Cuisines_Cafe, Italian, Lebanese, Continental, Mediterranean",0.0
+"cat__Cuisines_Cafe, Italian, Mexican, Chinese",0.0
+"cat__Cuisines_Cafe, Italian, Mexican, North Indian, Continental",0.0
+"cat__Cuisines_Cafe, Italian, Mexican, Salad, Desserts",0.0
+"cat__Cuisines_Cafe, Italian, Salad",0.0
+"cat__Cuisines_Cafe, Korean, Desserts",0.0
+"cat__Cuisines_Cafe, Lebanese, Italian",0.0
+"cat__Cuisines_Cafe, Mediterranean",0.0
+"cat__Cuisines_Cafe, Mexican",0.0
+"cat__Cuisines_Cafe, Mexican, American, Italian, Lebanese, Continental",0.0
+"cat__Cuisines_Continental, North Indian, Chinese, Arabian, Thai",0.0
+"cat__Cuisines_Continental, North Indian, Chinese, Italian, Finger Food",0.0
+"cat__Cuisines_Continental, North Indian, European",0.0
+"cat__Cuisines_Continental, North Indian, Fast Food, Street Food, South Indian",0.0
+"cat__Cuisines_Continental, North Indian, Italian",0.0
+"cat__Cuisines_Continental, North Indian, Italian, Chinese",0.0
+"cat__Cuisines_Continental, North Indian, Mexican",0.0
+"cat__Cuisines_Continental, North Indian, Mughlai, Chinese",0.0
+"cat__Cuisines_Continental, North Indian, Mughlai, Italian",0.0
+"cat__Cuisines_Continental, North Indian, South Indian",0.0
+"cat__Cuisines_Continental, North Indian, South Indian, Italian",0.0
+"cat__Cuisines_Continental, North Indian, Thai, Chinese",0.0
+"cat__Cuisines_Continental, Seafood, Chinese, North Indian, Biryani",0.0
+"cat__Cuisines_Continental, Seafood, Goan, Andhra, Kerala, Thai",0.0
+"cat__Cuisines_Continental, South African, Beverages, Desserts, Seafood, Grill, Ice Cream, International",0.0
+"cat__Cuisines_Continental, Tex-Mex",0.0
+"cat__Cuisines_Continental, Thai, Chinese, North Indian",0.0
+"cat__Cuisines_Cuban, Spanish",0.0
+cat__Cuisines_Cuisine Varies,0.0
+"cat__Cuisines_Desserts, American",0.0
+"cat__Cuisines_Desserts, Bakery, Fast Food",0.0
+"cat__Cuisines_Desserts, Bakery, Pizza, Burger, Continental",0.0
+"cat__Cuisines_American, BBQ, Southern",0.0
+"cat__Cuisines_American, BBQ, Steak",0.0
+"cat__Cuisines_American, Bakery, European, Burger, Fusion",0.0
+"cat__Cuisines_American, Bar Food, BBQ",0.0
+"cat__Cuisines_Cafe, Italian, Coffee and Tea, Western, Indonesian",0.0
+"cat__Cuisines_Cafe, Italian, Continental, Fast Food",0.0
+"cat__Cuisines_Cafe, Italian, Desserts",0.0
+"cat__Cuisines_Cafe, Italian, Desserts, Fast Food, Chinese, Tea",0.0
+"cat__Cuisines_Cafe, Italian, European, Bakery",0.0
+"cat__Cuisines_Desserts, Bakery, Western",0.0
+"cat__Cuisines_Desserts, Beverages, Juices",0.0
+"cat__Cuisines_Desserts, Cafe, Mexican",0.0
+"cat__Cuisines_Desserts, Fast Food, Chinese",0.0
+"cat__Cuisines_Desserts, Greek, Sandwich",0.0
+"cat__Cuisines_Desserts, Ice Cream, Fast Food",0.0
+"cat__Cuisines_Desserts, Ice Cream, North Indian",0.0
+"cat__Cuisines_Desserts, Ice Cream, Pizza",0.0
+"cat__Cuisines_Desserts, Latin American, Argentine",0.0
+"cat__Cuisines_Desserts, Middle Eastern, Turkish",0.0
+"cat__Cuisines_Desserts, North Indian",0.0
+"cat__Cuisines_Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",0.0
+"cat__Cuisines_Desserts, Pizza, Ice Cream",0.0
+"cat__Cuisines_Desserts, Sandwich, Ice Cream",0.0
+"cat__Cuisines_Desserts, Sandwich, Southern",0.0
+"cat__Cuisines_Desserts, Street Food",0.0
+"cat__Cuisines_Desserts, Thai",0.0
+cat__Cuisines_Drinks Only,0.0
+"cat__Cuisines_European, American",0.0
+"cat__Cuisines_European, Asian",0.0
+"cat__Cuisines_European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food",0.0
+"cat__Cuisines_European, Asian, North Indian, Italian, Continental, Pizza",0.0
+"cat__Cuisines_European, Cafe",0.0
+"cat__Cuisines_European, Cafe, Italian",0.0
+"cat__Cuisines_European, Chinese",0.0
+"cat__Cuisines_European, Chinese, North Indian, Italian",0.0
+"cat__Cuisines_European, Contemporary",0.0
+"cat__Cuisines_European, Continental, North Indian",0.0
+"cat__Cuisines_European, Continental, Pizza",0.0
+"cat__Cuisines_European, International, Tapas",0.0
+"cat__Cuisines_European, Italian",0.0
+"cat__Cuisines_European, Italian, Cafe",0.0
+"cat__Cuisines_European, Italian, Desserts",0.0
+"cat__Cuisines_European, Italian, Mediterranean",0.0
+"cat__Cuisines_European, Italian, North Indian",0.0
+"cat__Cuisines_European, Italian, Thai, Chinese, North Indian",0.0
+"cat__Cuisines_European, Lebanese, Mediterranean",0.0
+"cat__Cuisines_European, Mediterranean, North Indian",0.0
+"cat__Cuisines_European, North Indian",0.0
+"cat__Cuisines_European, North Indian, Mediterranean, American",0.0
+"cat__Cuisines_European, Pizza",0.0
+"cat__Cuisines_European, South African",0.0
+"cat__Cuisines_Fast Food, American",0.0
+"cat__Cuisines_Fast Food, American, Burger",0.0
+"cat__Cuisines_Fast Food, American, Italian",0.0
+"cat__Cuisines_Fast Food, Bakery",0.0
+cat__City_Randburg,0.0
+cat__City_Rest of Hawaii,0.0
+cat__City_Rio de Janeiro,0.0
+cat__City_San Juan City,0.0
+cat__City_Santa Rosa,0.0
+cat__City_Singapore,0.0
+cat__City_S��o Paulo,0.0
+cat__City_Taguig City,0.0
+cat__City_Tangerang,0.0
+"cat__Cuisines_Fast Food, Beverages, Desserts",0.0
+"cat__Cuisines_Fast Food, Biryani",0.0
+"cat__Cuisines_Fast Food, Cafe",0.0
+"cat__Cuisines_Fast Food, Cafe, Desserts, Bakery",0.0
+"cat__Cuisines_Fast Food, Chinese, Burger",0.0
+"cat__Cuisines_Fast Food, Chinese, Mithai, Street Food",0.0
+"cat__Cuisines_Fast Food, Chinese, North Indian",0.0
+"cat__Cuisines_Fast Food, Continental, Italian, Bakery",0.0
+"cat__Cuisines_Cafe, Fast Food, North Indian",0.0
+"cat__Cuisines_Cafe, Fast Food, Pizza",0.0
+"cat__Cuisines_Cafe, Fast Food, Street Food",0.0
+"cat__Cuisines_Cafe, French",0.0
+"cat__Cuisines_Cafe, Healthy Food, Continental, Italian, Asian",0.0
+"cat__Cuisines_Cafe, Italian, Bakery",0.0
+"cat__Cuisines_Cafe, Italian, Chinese",0.0
+"cat__Cuisines_Cafe, Italian, Chinese, Continental",0.0
+cat__Cuisines_African,0.0
+"cat__Cuisines_African, Portuguese",0.0
+"cat__Cuisines_American, Asian, Burger",0.0
+"cat__Cuisines_American, Asian, Italian, Seafood",0.0
+"cat__Cuisines_American, Asian, North Indian, Mexican, South Indian",0.0
+"cat__Cuisines_American, BBQ",0.0
+"cat__Cuisines_American, BBQ, Burger",0.0
+"cat__Cuisines_Fast Food, Desserts",0.0
+"cat__Cuisines_Fast Food, Desserts, Beverages",0.0
+"cat__Cuisines_Fast Food, French",0.0
+"cat__Cuisines_Fast Food, Healthy Food",0.0
+"cat__Cuisines_Fast Food, Italian, Beverages",0.0
+"cat__Cuisines_Fast Food, Italian, Desserts, Beverages",0.0
+"cat__Cuisines_Fast Food, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Fast Food, Italian, Pizza",0.0
+"cat__Cuisines_Fast Food, Mughlai",0.0
+"cat__Cuisines_Fast Food, Mughlai, Armenian",0.0
+"cat__Cuisines_Fast Food, North Indian, Bakery",0.0
+"cat__Cuisines_Fast Food, North Indian, Beverages",0.0
+"cat__Cuisines_Fast Food, North Indian, Chinese, Desserts, Ice Cream",0.0
+"cat__Cuisines_Fast Food, North Indian, Mughlai",0.0
+"cat__Cuisines_Fast Food, North Indian, South Indian",0.0
+"cat__Cuisines_Fast Food, North Indian, South Indian, Chinese, Bakery",0.0
+"cat__Cuisines_Fast Food, North Indian, South Indian, Chinese, Street Food, Mithai",0.0
+"cat__Cuisines_Fast Food, Seafood",0.0
+"cat__Cuisines_Fast Food, South Indian",0.0
+"cat__Cuisines_Fast Food, South Indian, Chinese, Mithai",0.0
+"cat__Cuisines_Fast Food, South Indian, Mithai",0.0
+"cat__Cuisines_Fast Food, Street Food, Beverages",0.0
+"cat__Cuisines_Fast Food, Street Food, South Indian",0.0
+"cat__Cuisines_Fast Food, Tea",0.0
+"cat__Cuisines_Fast Food, Turkish",0.0
+cat__Cuisines_Filipino,0.0
+"cat__Cuisines_Filipino, Japanese, Asian",0.0
+"cat__Cuisines_Finger Food, American, Continental, North Indian, Italian",0.0
+"cat__Cuisines_Finger Food, Continental, North Indian, Chinese",0.0
+"cat__Cuisines_Finger Food, European",0.0
+"cat__Cuisines_Finger Food, European, North Indian",0.0
+"cat__Cuisines_Finger Food, Italian",0.0
+"cat__Cuisines_Finger Food, Italian, Spanish, Greek",0.0
+"cat__Cuisines_Finger Food, North Indian",0.0
+"cat__Cuisines_Finger Food, North Indian, Chinese",0.0
+"cat__Cuisines_Finger Food, North Indian, Continental, Chinese, Italian",0.0
+"cat__Cuisines_Finger Food, North Indian, Continental, Italian",0.0
+"cat__Cuisines_Finger Food, North Indian, Continental, Italian, Mediterranean",0.0
+"cat__Cuisines_Finger Food, North Indian, Italian",0.0
+"cat__Cuisines_Finger Food, North Indian, Italian, European, Continental",0.0
+"cat__Cuisines_French, Brazilian, Beverages",0.0
+"cat__Cuisines_French, Continental, North Indian",0.0
+"cat__Cuisines_French, Mediterranean, European",0.0
+"cat__Cuisines_French, Western",0.0
+"cat__Cuisines_German, Ice Cream",0.0
+cat__Cuisines_Goan,0.0
+"cat__Cuisines_Goan, American, Portuguese",0.0
+"cat__Cuisines_Goan, Mangalorean, Continental, French",0.0
+"cat__Cuisines_Goan, North Indian, Chinese",0.0
+"cat__Cuisines_Gourmet Fast Food, Burger",0.0
+"cat__Cuisines_Greek, Italian",0.0
+"cat__Cuisines_Greek, Lebanese",0.0
+"cat__Cuisines_Greek, Mediterranean",0.0
+"cat__Cuisines_Grill, Burger",0.0
+"cat__Cuisines_Cafe, Desserts, Beverages",0.0
+"cat__Cuisines_Cafe, European",0.0
+"cat__Cuisines_Cafe, Fast Food, American",0.0
+"cat__Cuisines_Cafe, Fast Food, Asian, Italian",0.0
+"cat__Cuisines_Cafe, Fast Food, Bakery",0.0
+"cat__Cuisines_Cafe, Fast Food, Beverages",0.0
+"cat__Cuisines_Cafe, Fast Food, Chinese",0.0
+"cat__Cuisines_Cafe, Fast Food, Continental",0.0
+"cat__Cuisines_Cafe, Fast Food, Healthy Food",0.0
+"cat__Cuisines_Cafe, Fast Food, Italian, Chinese",0.0
+"cat__Cuisines_Cafe, Fast Food, Italian, Mexican",0.0
+"cat__Cuisines_Grill, Steak, Burger, Sushi, Tapas",0.0
+cat__Cuisines_Gujarati,0.0
+"cat__Cuisines_Gujarati, Rajasthani",0.0
+"cat__Cuisines_Gujarati, Rajasthani, North Indian, Fast Food",0.0
+cat__Cuisines_Hawaiian,0.0
+"cat__Cuisines_Hawaiian, Seafood",0.0
+"cat__Cuisines_Healthy Food, American, Burger, Salad",0.0
+"cat__Cuisines_Healthy Food, Beverages",0.0
+"cat__Cuisines_Healthy Food, Cafe, Desserts, Italian, Bakery",0.0
+"cat__Cuisines_Healthy Food, Continental, Juices, Beverages, Italian, Salad, Lebanese",0.0
+"cat__Cuisines_Healthy Food, Continental, Juices, Salad",0.0
+"cat__Cuisines_Healthy Food, Continental, North Indian, Salad",0.0
+"cat__Cuisines_Healthy Food, Fast Food, Salad",0.0
+"cat__Cuisines_Healthy Food, Juices",0.0
+"cat__Cuisines_Healthy Food, Juices, Salad",0.0
+"cat__Cuisines_Healthy Food, North Indian, Italian, Salad",0.0
+"cat__Cuisines_Healthy Food, Salad",0.0
+"cat__Cuisines_Healthy Food, Salad, Italian, Continental",0.0
+"cat__Cuisines_Healthy Food, Seafood, Beverages, Belgian, Contemporary, Desserts, Finger Food, International",0.0
+"cat__Cuisines_Hyderabadi, Awadhi",0.0
+"cat__Cuisines_Hyderabadi, Biryani",0.0
+"cat__Cuisines_Cafe, Continental, Chinese",0.0
+"cat__Cuisines_Cafe, Continental, Desserts",0.0
+"cat__Cuisines_Cafe, Continental, Desserts, Ice Cream, Italian, Beverages",0.0
+"cat__Cuisines_Cafe, Continental, Fast Food, Italian",0.0
+"cat__Cuisines_Cafe, Continental, Italian, Bakery",0.0
+"cat__Cuisines_Cafe, Continental, Italian, Chinese",0.0
+"cat__Cuisines_Cafe, Continental, Italian, North Indian",0.0
+"cat__Cuisines_Cafe, Continental, Italian, Pizza",0.0
+"cat__Cuisines_Cafe, Continental, Mexican, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Cafe, Continental, North Indian, Chinese, Mexican",0.0
+"cat__Cuisines_Cafe, Continental, North Indian, Italian, Chinese, Bakery, Desserts, Finger Food",0.0
+"cat__Cuisines_Hyderabadi, North Indian",0.0
+"cat__Cuisines_Ice Cream, Bakery",0.0
+"cat__Cuisines_Ice Cream, Beverages",0.0
+"cat__Cuisines_Ice Cream, Beverages, Fast Food",0.0
+"cat__Cuisines_Ice Cream, Desserts, Cafe",0.0
+"cat__Cuisines_Ice Cream, Desserts, Fast Food",0.0
+"cat__Cuisines_Ice Cream, Desserts, North Indian, Street Food",0.0
+"cat__Cuisines_Ice Cream, Street Food",0.0
+"cat__Cuisines_Indian, Asian",0.0
+"cat__Cuisines_Indian, Asian, Durban, International, Desserts",0.0
+"cat__Cuisines_Indian, Cafe",0.0
+"cat__Cuisines_Indian, Cafe, Curry",0.0
+"cat__Cuisines_Indian, Chinese, Continental",0.0
+"cat__Cuisines_Indian, Curry",0.0
+"cat__Cuisines_Indian, Grill",0.0
+"cat__Cuisines_Indian, International, Vegetarian",0.0
+"cat__Cuisines_Indian, Mughlai, South Indian, Biryani",0.0
+"cat__Cuisines_Indian, North Indian, Chinese",0.0
+"cat__Cuisines_Indian, North Indian, Mughlai, Biryani",0.0
+"cat__Cuisines_Indian, North Indian, Street Food",0.0
+"cat__Cuisines_Indian, Pakistani, Curry",0.0
+"cat__Cuisines_Indian, Persian",0.0
+"cat__Cuisines_Cafe, Beverages, Desserts, Pizza",0.0
+"cat__Cuisines_Cafe, Burger",0.0
+"cat__Cuisines_Cafe, Chinese, Fast Food, Italian",0.0
+"cat__Cuisines_Cafe, Chinese, Fast Food, Seafood",0.0
+"cat__Cuisines_Cafe, Chinese, Italian",0.0
+"cat__Cuisines_Cafe, Chinese, North Indian",0.0
+"cat__Cuisines_Cafe, Chinese, Thai, North Indian, Continental",0.0
+"cat__Cuisines_Cafe, Coffee and Tea, Modern Australian",0.0
+"cat__Cuisines_Cafe, Coffee and Tea, Sandwich",0.0
+"cat__Cuisines_Cafe, Coffee and Tea, Western",0.0
+"cat__Cuisines_International, Indian",0.0
+"cat__Cuisines_International, Italian, Southern",0.0
+"cat__Cuisines_International, Mediterranean, Sandwich",0.0
+"cat__Cuisines_International, Southern",0.0
+"cat__Cuisines_International, Southern, Vegetarian",0.0
+cat__City_Palm Cove,0.0
+cat__City_Panchkula,0.0
+cat__City_Pasay City,0.0
+cat__City_Pasig City,0.0
+cat__City_Paynesville,0.0
+cat__City_Penola,0.0
+cat__City_Pocatello,0.0
+cat__City_Princeton,0.0
+"cat__Cuisines_Italian, American, Lebanese",0.0
+"cat__Cuisines_Italian, American, Pizza",0.0
+"cat__Cuisines_Italian, Bakery, Continental",0.0
+"cat__Cuisines_Italian, Burger, Charcoal Grill",0.0
+"cat__Cuisines_Italian, Cafe",0.0
+"cat__Cuisines_Italian, Cafe, Chinese, Continental",0.0
+"cat__Cuisines_Italian, Cafe, Desserts",0.0
+"cat__Cuisines_Italian, Chinese",0.0
+"cat__Cuisines_Italian, Chinese, Continental, Thai, Mediterranean, Lebanese",0.0
+"cat__Cuisines_Cafe, American, Italian, Continental",0.0
+"cat__Cuisines_Cafe, American, Italian, Filipino",0.0
+"cat__Cuisines_Cafe, American, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Cafe, American, Tea",0.0
+"cat__Cuisines_Cafe, Asian, Italian, North Indian",0.0
+"cat__Cuisines_Cafe, Bakery, Fast Food",0.0
+"cat__Cuisines_Cafe, Bakery, Parsi",0.0
+"cat__Cuisines_Cafe, Bakery, Tea, Vegetarian",0.0
+"cat__Cuisines_Italian, Chinese, Mexican, Thai, North Indian",0.0
+"cat__Cuisines_Italian, Continental, American",0.0
+"cat__Cuisines_Italian, Continental, Cafe",0.0
+"cat__Cuisines_Italian, Continental, Chinese",0.0
+"cat__Cuisines_Italian, Continental, Chinese, Mexican",0.0
+"cat__Cuisines_Italian, Continental, Chinese, North Indian",0.0
+"cat__Cuisines_Italian, Continental, Fast Food, North Indian",0.0
+"cat__Cuisines_Italian, Continental, Finger Food",0.0
+"cat__Cuisines_Italian, Continental, Goan",0.0
+"cat__Cuisines_Italian, Continental, Mexican, Cafe, Bakery",0.0
+"cat__Cuisines_Italian, Continental, North Indian, Cafe",0.0
+"cat__Cuisines_Italian, Deli",0.0
+"cat__Cuisines_Italian, European",0.0
+"cat__Cuisines_Italian, Fast Food, North Indian, Chinese",0.0
+"cat__Cuisines_Italian, Fast Food, South Indian",0.0
+"cat__Cuisines_Italian, French, Bakery, Cafe",0.0
+"cat__Cuisines_Italian, French, Cafe",0.0
+"cat__Cuisines_Italian, German, Continental",0.0
+"cat__Cuisines_Italian, Lebanese, North Indian",0.0
+"cat__Cuisines_Italian, Mediterranean, Continental, North Indian",0.0
+"cat__Cuisines_Italian, Mediterranean, Pizza",0.0
+"cat__Cuisines_Italian, Mediterranean, Sushi, Desserts",0.0
+"cat__Cuisines_Italian, Mexican, American, Mediterranean",0.0
+"cat__Cuisines_Italian, Mexican, Cafe",0.0
+"cat__Cuisines_Italian, Mexican, Continental",0.0
+"cat__Cuisines_Italian, Mexican, Continental, North Indian, Finger Food",0.0
+"cat__Cuisines_Italian, Mexican, Lebanese, Continental",0.0
+"cat__Cuisines_Italian, Mexican, Mediterranean",0.0
+"cat__Cuisines_Italian, Mexican, Spanish, Thai, Vietnamese, Indonesian, American",0.0
+"cat__Cuisines_Italian, North Indian",0.0
+"cat__Cuisines_Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Italian, North Indian, Desserts",0.0
+"cat__Cuisines_Italian, North Indian, Desserts, Continental",0.0
+"cat__Cuisines_Italian, North Indian, South Indian",0.0
+"cat__Cuisines_Italian, Pizza, Beverages, Desserts, Grill, Seafood",0.0
+"cat__Cuisines_Italian, Pizza, Cafe",0.0
+"cat__Cuisines_Italian, Pizza, Lebanese",0.0
+"cat__Cuisines_Burger, Fast Food, Desserts, Beverages",0.0
+"cat__Cuisines_Burger, Greek, Sandwich",0.0
+"cat__Cuisines_Burger, Grill",0.0
+"cat__Cuisines_Burger, Pizza, Fast Food",0.0
+"cat__Cuisines_Burger, Pizza, Sandwich",0.0
+"cat__Cuisines_Burger, Sandwich, Seafood",0.0
+"cat__Cuisines_Burger, Seafood",0.0
+"cat__Cuisines_Burger, Seafood, Steak",0.0
+"cat__Cuisines_Burmese, Chinese, Japanese, Malaysian, Thai",0.0
+"cat__Cuisines_Cafe, American",0.0
+"cat__Cuisines_Cafe, American, Continental, Armenian, Fast Food",0.0
+"cat__Cuisines_Italian, Pizza, Seafood",0.0
+"cat__Cuisines_Italian, Pizza, Vegetarian",0.0
+"cat__Cuisines_Italian, Tex-Mex, Continental, North Indian",0.0
+cat__Cuisines_Japanese,0.0
+"cat__Cuisines_Japanese, Asian, Seafood, Sushi",0.0
+"cat__Cuisines_Japanese, Chinese, Asian, Thai",0.0
+"cat__Cuisines_Japanese, Chinese, Malaysian, Thai, Vietnamese",0.0
+"cat__Cuisines_Japanese, Chinese, Thai",0.0
+"cat__Cuisines_Japanese, French",0.0
+"cat__Cuisines_Japanese, Seafood, Sushi",0.0
+"cat__Cuisines_Japanese, Sushi, Thai",0.0
+"cat__Cuisines_Japanese, Thai, Chinese",0.0
+"cat__Cuisines_Japanese, Thai, Italian, Asian",0.0
+"cat__Cuisines_Japanese, Thai, Sushi",0.0
+"cat__Cuisines_Japanese, Tibetan, Vietnamese, Korean",0.0
+"cat__Cuisines_Juices, Beverages, Fast Food",0.0
+"cat__Cuisines_Juices, Desserts",0.0
+"cat__Cuisines_Juices, Healthy Food",0.0
+cat__Cuisines_Kashmiri,0.0
+"cat__Cuisines_British, Contemporary",0.0
+"cat__Cuisines_British, Steak",0.0
+"cat__Cuisines_Burger, American",0.0
+"cat__Cuisines_Burger, American, Beverages",0.0
+"cat__Cuisines_Burger, American, Fast Food",0.0
+"cat__Cuisines_Burger, Bar Food",0.0
+"cat__Cuisines_Burger, Bar Food, Southern",0.0
+"cat__Cuisines_Burger, Bar Food, Steak",0.0
+"cat__Cuisines_Burger, Bar Food, Vegetarian",0.0
+"cat__Cuisines_Burger, Coffee and Tea, Modern Australian",0.0
+"cat__Cuisines_Burger, Desserts",0.0
+"cat__Cuisines_Burger, Fast Food, Chinese",0.0
+"cat__Cuisines_Kashmiri, Chinese",0.0
+"cat__Cuisines_Kashmiri, Mughlai",0.0
+"cat__Cuisines_Kashmiri, North Indian",0.0
+"cat__Cuisines_Kebab, Desserts, Turkish Pizza",0.0
+"cat__Cuisines_Kebab, Izgara",0.0
+"cat__Cuisines_Kerala, Biryani",0.0
+"cat__Cuisines_Kerala, Indian, Chinese, Bakery",0.0
+"cat__Cuisines_Kerala, South Indian",0.0
+"cat__Cuisines_Kerala, South Indian, Chinese, Biryani",0.0
+"cat__Cuisines_Kiwi, European",0.0
+"cat__Cuisines_Korean, Beverages, Desserts",0.0
+"cat__Cuisines_Korean, Japanese, Chinese, Asian",0.0
+cat__Cuisines_Latin American,0.0
+"cat__Cuisines_Latin American, Italian",0.0
+"cat__Cuisines_Latin American, Mexican, Southwestern",0.0
+"cat__Cuisines_Latin American, Steak",0.0
+cat__Cuisines_Lebanese,0.0
+"cat__Cuisines_Lebanese, Arabian, Middle Eastern",0.0
+"cat__Cuisines_Lebanese, Italian",0.0
+"cat__Cuisines_Lebanese, Mediterranean, Arabian",0.0
+"cat__Cuisines_Lebanese, Mediterranean, Middle Eastern, Arabian",0.0
+"cat__Cuisines_Lebanese, North Indian",0.0
+cat__Cuisines_Lucknowi,0.0
+cat__Cuisines_Malaysian,0.0
+"cat__Cuisines_Malaysian, North Indian, Sri Lankan",0.0
+"cat__Cuisines_Malaysian, Thai",0.0
+cat__Country Code_191,0.0
+cat__Cuisines_Mediterranean,0.0
+"cat__Cuisines_Mediterranean, Asian, Continental, North Indian, Arabian",0.0
+"cat__Cuisines_Mediterranean, Cafe, European",0.0
+"cat__Cuisines_Mediterranean, Continental",0.0
+"cat__Cuisines_Mediterranean, Continental, North Indian, Italian",0.0
+"cat__Cuisines_Mediterranean, European",0.0
+"cat__Cuisines_Mediterranean, European, American, North Indian",0.0
+"cat__Cuisines_Mediterranean, Italian, American",0.0
+cat__Cuisines_Breakfast,0.0
+"cat__Cuisines_Breakfast, Burger",0.0
+"cat__Cuisines_Breakfast, Diner, Sandwich",0.0
+"cat__Cuisines_Breakfast, Diner, Southern",0.0
+"cat__Cuisines_Breakfast, French",0.0
+"cat__Cuisines_Breakfast, Modern Australian",0.0
+"cat__Cuisines_Breakfast, Pizza",0.0
+"cat__Cuisines_Breakfast, Sandwich",0.0
+"cat__Cuisines_Breakfast, Spanish, Tapas",0.0
+"cat__Cuisines_Breakfast, Vegetarian",0.0
+cat__Cuisines_British,0.0
+"cat__Cuisines_Mediterranean, Italian, European",0.0
+"cat__Cuisines_Mediterranean, Italian, Thai, European",0.0
+"cat__Cuisines_Mediterranean, Seafood",0.0
+"cat__Cuisines_Mediterranean, Tapas, Vegetarian",0.0
+"cat__Cuisines_Mediterranean, Turkish",0.0
+"cat__Cuisines_Mexican, American, Italian",0.0
+"cat__Cuisines_Mexican, American, Tex-Mex",0.0
+"cat__Cuisines_Mexican, Fast Food",0.0
+"cat__Cuisines_Mexican, Grill",0.0
+"cat__Cuisines_Mexican, Italian, Fast Food",0.0
+"cat__Cuisines_Mexican, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_Mexican, North Indian",0.0
+"cat__Cuisines_Mexican, North Indian, European, Chinese, Italian",0.0
+"cat__Cuisines_Mexican, Southwestern, Tex-Mex",0.0
+"cat__Cuisines_Mexican, Vegetarian",0.0
+"cat__Cuisines_Middle Eastern, Arabian",0.0
+"cat__Cuisines_Middle Eastern, Mediterranean, North Indian",0.0
+"cat__Cuisines_Mithai, Bakery",0.0
+"cat__Cuisines_Mithai, Bakery, Street Food",0.0
+"cat__Cuisines_Mithai, Bakery, Street Food, Chinese, South Indian",0.0
+"cat__Cuisines_Mithai, Beverages",0.0
+"cat__Cuisines_Mithai, Chinese",0.0
+"cat__Cuisines_Mithai, Fast Food",0.0
+"cat__Cuisines_Mithai, North Indian, Chinese",0.0
+"cat__Cuisines_Biryani, Kerala",0.0
+"cat__Cuisines_Biryani, Lucknowi, North Indian",0.0
+"cat__Cuisines_Biryani, Mughlai, Bengali, North Indian",0.0
+"cat__Cuisines_Brazilian, Bar Food",0.0
+"cat__Cuisines_Brazilian, Healthy Food, Juices, Pizza",0.0
+"cat__Cuisines_Brazilian, Italian",0.0
+"cat__Cuisines_Brazilian, Mineira",0.0
+"cat__Cuisines_Brazilian, North Eastern",0.0
+"cat__Cuisines_Brazilian, Seafood",0.0
+"cat__Cuisines_Mithai, North Indian, South Indian",0.0
+"cat__Cuisines_Mithai, North Indian, South Indian, Chinese",0.0
+"cat__Cuisines_Mithai, North Indian, South Indian, Chinese, Bakery",0.0
+"cat__Cuisines_Mithai, North Indian, South Indian, Chinese, Street Food, Bakery",0.0
+"cat__Cuisines_Mithai, North Indian, South Indian, Fast Food, Street Food, Chinese",0.0
+"cat__Cuisines_Mithai, North Indian, Street Food",0.0
+"cat__Cuisines_Mithai, North Indian, Street Food, Chinese, South Indian, Indian",0.0
+cat__City_Manchester,0.0
+cat__City_Mayfield,0.0
+cat__City_Mohali,0.0
+cat__City_Monroe,0.0
+cat__City_Mumbai,0.0
+cat__City_Mysore,0.0
+cat__City_Ojo Caliente,0.0
+"cat__Cuisines_Mithai, South Indian, Street Food",0.0
+"cat__Cuisines_Mithai, Street Food, Chinese",0.0
+"cat__Cuisines_Mithai, Street Food, North Indian, South Indian",0.0
+"cat__Cuisines_Mithai, Street Food, North Indian, South Indian, Chinese",0.0
+"cat__Cuisines_Mithai, Street Food, North Indian, South Indian, Chinese, Fast Food, Beverages",0.0
+"cat__Cuisines_Modern Australian, Australian",0.0
+"cat__Cuisines_Modern Indian, Asian",0.0
+"cat__Cuisines_Bar Food, Steak",0.0
+"cat__Cuisines_Bengali, Chinese",0.0
+cat__Country Code_208,0.0
+"cat__Cuisines_Bengali, North Indian, Chinese",0.0
+"cat__Cuisines_Bengali, Seafood",0.0
+"cat__Cuisines_Beverages, International",0.0
+"cat__Cuisines_Beverages, Street Food",0.0
+cat__Cuisines_Bihari,0.0
+"cat__Cuisines_Biryani, Andhra",0.0
+"cat__Cuisines_Modern Indian, North Indian",0.0
+"cat__Cuisines_Mughlai, Afghani",0.0
+"cat__Cuisines_Mughlai, Biryani",0.0
+"cat__Cuisines_Mughlai, Chinese, Cafe, BBQ, Cajun",0.0
+"cat__Cuisines_World Cuisine, Patisserie, Cafe",0.0
+"cat__Cuisines_Mughlai, Continental, Chinese",0.0
+"cat__Cuisines_Mughlai, Fast Food",0.0
+cat__Currency_Brazilian Real(R$),0.0
+"cat__Cuisines_Mughlai, Italian, Finger Food, Middle Eastern",0.0
+"cat__Cuisines_Mughlai, Lucknowi",0.0
+"cat__Cuisines_Mughlai, Lucknowi, Awadhi",0.0
+"cat__Cuisines_Mughlai, North Indian, South Indian",0.0
+"cat__Cuisines_Mughlai, Street Food",0.0
+"cat__Cuisines_Naga, Chinese",0.0
+"cat__Cuisines_Naga, Tibetan, Chinese, Bakery",0.0
+cat__Cuisines_Nepalese,0.0
+"cat__Cuisines_Nepalese, Tibetan",0.0
+"cat__Cuisines_New American, Tapas",0.0
+cat__Cuisines_North Eastern,0.0
+"cat__Cuisines_North Eastern, Continental, South Indian, Fast Food",0.0
+"cat__Cuisines_North Eastern, North Indian, Chinese",0.0
+"cat__Cuisines_North Indian, Afghani",0.0
+"cat__Cuisines_North Indian, Afghani, Mughlai",0.0
+"cat__Cuisines_North Indian, American, Chinese",0.0
+"cat__Cuisines_North Indian, Andhra, Mughlai",0.0
+"cat__Cuisines_North Indian, Asian, Italian",0.0
+"cat__Cuisines_North Indian, Awadhi",0.0
+"cat__Cuisines_North Indian, Bengali",0.0
+"cat__Cuisines_North Indian, Biryani, Chinese",0.0
+"cat__Cuisines_North Indian, Biryani, Chinese, Fast Food",0.0
+"cat__Cuisines_North Indian, Biryani, Fast Food, Chinese",0.0
+"cat__Cuisines_North Indian, Biryani, Mughlai",0.0
+"cat__Cuisines_North Indian, Cafe",0.0
+"cat__Cuisines_North Indian, Cafe, Italian, Mexican, Continental",0.0
+"cat__Cuisines_North Indian, Chinese, Arabian",0.0
+"cat__Cuisines_North Indian, Chinese, Bakery",0.0
+"cat__Cuisines_North Indian, Chinese, Biryani",0.0
+"cat__Cuisines_North Indian, Chinese, Cafe",0.0
+"cat__Cuisines_Bakery, Desserts, Healthy Food",0.0
+"cat__Cuisines_Bakery, Desserts, Ice Cream",0.0
+"cat__Cuisines_Bakery, Fast Food, Chinese",0.0
+"cat__Cuisines_Bakery, Fast Food, Pizza",0.0
+"cat__Cuisines_Bakery, French",0.0
+"cat__Cuisines_Bakery, Healthy Food",0.0
+"cat__Cuisines_Bakery, Italian, Chinese, Mexican",0.0
+"cat__Cuisines_Bakery, Italian, Fast Food, Chinese, Continental",0.0
+"cat__Cuisines_Bakery, Sandwich, Brazilian",0.0
+"cat__Cuisines_Bakery, Street Food",0.0
+"cat__Cuisines_Bar Food, Modern Australian",0.0
+"cat__Cuisines_Bar Food, Sandwich, Seafood",0.0
+"cat__Cuisines_Bar Food, Seafood, Vegetarian",0.0
+"cat__Cuisines_North Indian, Chinese, Continental, Goan, Seafood",0.0
+"cat__Cuisines_North Indian, Chinese, Continental, Mughlai",0.0
+"cat__Cuisines_North Indian, Chinese, Continental, Pizza",0.0
+"cat__Cuisines_North Indian, Chinese, Continental, Seafood",0.0
+"cat__Cuisines_North Indian, Chinese, Fast Food, Cafe",0.0
+"cat__Cuisines_North Indian, Chinese, Fast Food, Desserts",0.0
+"cat__Cuisines_North Indian, Chinese, Fast Food, Mithai",0.0
+"cat__Cuisines_North Indian, Chinese, Fast Food, Street Food",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, American, Middle Eastern",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, Finger Food",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, Lebanese, Mexican",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, Mexican, Lebanese",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, Street Food, Desserts",0.0
+"cat__Cuisines_North Indian, Chinese, Italian, Thai",0.0
+"cat__Cuisines_North Indian, Chinese, Kashmiri",0.0
+"cat__Cuisines_North Indian, Chinese, Mediterranean",0.0
+"cat__Cuisines_North Indian, Chinese, Mediterranean, Asian, Continental",0.0
+"cat__Cuisines_North Indian, Chinese, Mexican, Beverages",0.0
+"cat__Cuisines_North Indian, Chinese, Mexican, Italian",0.0
+"cat__Cuisines_North Indian, Chinese, Mughlai, Continental",0.0
+"cat__Cuisines_North Indian, Chinese, Mughlai, Fast Food",0.0
+"cat__Cuisines_North Indian, Chinese, Mughlai, South Indian",0.0
+"cat__Cuisines_North Indian, Chinese, Raw Meats",0.0
+"cat__Cuisines_North Indian, Chinese, Seafood",0.0
+"cat__Cuisines_North Indian, Chinese, South Indian, Bakery",0.0
+"cat__Cuisines_North Indian, Chinese, South Indian, Chinese",0.0
+"cat__Cuisines_North Indian, Chinese, South Indian, Italian",0.0
+cat__City_Inverloch,0.0
+cat__City_Jakarta,0.0
+cat__City_Johannesburg,0.0
+cat__City_Kochi,0.0
+cat__City_Kolkata,0.0
+cat__City_Lincoln,0.0
+"cat__Cuisines_American, Burger, Cajun",0.0
+"cat__Cuisines_American, Burger, Grill",0.0
+"cat__Cuisines_American, Burger, Pizza, Cafe",0.0
+"cat__Cuisines_American, Burger, Sandwich",0.0
+"cat__Cuisines_American, Cafe",0.0
+"cat__Cuisines_American, Chinese, North Indian, Italian",0.0
+"cat__Cuisines_Bakery, Desserts, Bakery",0.0
+"cat__Cuisines_Bakery, Desserts, Beverages",0.0
+"cat__Cuisines_Bakery, Desserts, Chinese, Fast Food",0.0
+"cat__Cuisines_Bakery, Desserts, Fast Food, Beverages",0.0
+"cat__Cuisines_Bakery, Desserts, Fast Food, Mithai",0.0
+cat__Currency_Indonesian Rupiah(IDR),0.0
+"cat__Cuisines_Bakery, Desserts, Fast Food, Pizza, Burger, Continental",0.0
+"cat__Cuisines_Bakery, Desserts, Fast Food, Street Food, Chinese, Beverages",0.0
+cat__City_Macedon,0.0
+cat__City_Macon,0.0
+cat__City_Makati City,0.0
+"cat__Cuisines_North Indian, Chinese, South Indian, Street Food, Fast Food, Mithai",0.0
+"cat__Cuisines_North Indian, Chinese, Street Food",0.0
+"cat__Cuisines_North Indian, Chinese, Thai, Continental",0.0
+"cat__Cuisines_North Indian, Chinese, Thai, Italian, Middle Eastern",0.0
+"cat__Cuisines_North Indian, Chinese, Thai, Mexican, Italian",0.0
+"cat__Cuisines_North Indian, Chinese, Tibetan",0.0
+"cat__Cuisines_North Indian, Chinese, Tibetan, Italian, Fast Food",0.0
+"cat__Cuisines_Bakery, Arabian, Middle Eastern",0.0
+"cat__Cuisines_Bakery, Cafe",0.0
+"cat__Cuisines_Bakery, Chinese, North Indian",0.0
+"cat__Cuisines_American, Breakfast, Burger",0.0
+"cat__Cuisines_American, Breakfast, Desserts",0.0
+"cat__Cuisines_American, Breakfast, Greek",0.0
+"cat__Cuisines_American, Breakfast, Hawaiian",0.0
+"cat__Cuisines_American, British, Continental",0.0
+"cat__Cuisines_American, Burger, Cafe",0.0
+"cat__Cuisines_North Indian, Chinese, Turkish",0.0
+"cat__Cuisines_North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean",0.0
+"cat__Cuisines_North Indian, Continental, Chinese",0.0
+"cat__Cuisines_North Indian, Continental, Chinese, Fast Food",0.0
+"cat__Cuisines_North Indian, Continental, Chinese, Japanese, Italian, Thai",0.0
+"cat__Cuisines_North Indian, Continental, Chinese, Mexican, Italian, Desserts",0.0
+"cat__Cuisines_North Indian, Continental, Chinese, South Indian",0.0
+"cat__Cuisines_North Indian, Continental, European",0.0
+"cat__Cuisines_North Indian, Continental, European, American, Mediterranean",0.0
+"cat__Cuisines_North Indian, Continental, European, Chinese, Thai",0.0
+"cat__Cuisines_North Indian, Continental, Italian, Asian",0.0
+"cat__Cuisines_North Indian, Continental, Italian, Chinese",0.0
+"cat__Cuisines_North Indian, Continental, Italian, Finger Food",0.0
+"cat__Cuisines_North Indian, Continental, Italian, Thai, Chinese",0.0
+"cat__Cuisines_North Indian, Continental, Mexican, Italian",0.0
+"cat__Cuisines_North Indian, Continental, Mughlai",0.0
+"cat__Cuisines_North Indian, Continental, Mughlai, Asian",0.0
+"cat__Cuisines_North Indian, Continental, South Indian, Chinese",0.0
+"cat__Cuisines_North Indian, Continental, South Indian, Chinese, Thai, Asian",0.0
+"cat__Cuisines_North Indian, Continental, Thai, Chinese",0.0
+"cat__Cuisines_North Indian, European, Continental, Finger Food",0.0
+"cat__Cuisines_North Indian, European, Mediterranean, Asian",0.0
+"cat__Cuisines_North Indian, Fast Food, Afghani",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese, Biryani, Mughlai",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese, Continental",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese, Japanese, Asian, Italian",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese, Mithai",0.0
+"cat__Cuisines_North Indian, Fast Food, Chinese, South Indian",0.0
+"cat__Cuisines_North Indian, Fast Food, Italian, Chinese, Cafe",0.0
+"cat__Cuisines_North Indian, Fast Food, Mithai",0.0
+"cat__Cuisines_North Indian, Fast Food, Street Food",0.0
+"cat__Cuisines_Asian, Vegetarian, Vietnamese, Bubble Tea",0.0
+"cat__Cuisines_Asian, Vietnamese",0.0
+cat__Cuisines_Assamese,0.0
+cat__Cuisines_Australian,0.0
+cat__Cuisines_Awadhi,0.0
+"cat__Cuisines_Awadhi, Mughlai",0.0
+"cat__Cuisines_Awadhi, Mughlai, North Indian",0.0
+"cat__Cuisines_Awadhi, North Indian",0.0
+"cat__Cuisines_BBQ, Burger, Desserts",0.0
+"cat__Cuisines_BBQ, Burger, Seafood",0.0
+"cat__Cuisines_BBQ, Grill, Brazilian",0.0
+"cat__Cuisines_BBQ, Sandwich",0.0
+"cat__Cuisines_BBQ, Southern",0.0
+"cat__Cuisines_North Indian, Finger Food",0.0
+"cat__Cuisines_North Indian, Finger Food, Italian, Chinese",0.0
+"cat__Cuisines_North Indian, French, Continental",0.0
+"cat__Cuisines_North Indian, Hyderabadi",0.0
+"cat__Cuisines_North Indian, Italian, Asian, South Indian",0.0
+"cat__Cuisines_North Indian, Italian, Chinese, Mexican",0.0
+"cat__Cuisines_North Indian, Italian, Continental",0.0
+"cat__Cuisines_North Indian, Italian, Finger Food",0.0
+"cat__Cuisines_North Indian, Japanese, Italian",0.0
+"cat__Cuisines_North Indian, Kashmiri",0.0
+cat__City_Balingup,0.0
+"cat__Cuisines_North Indian, Kashmiri, Mughlai",0.0
+"cat__Cuisines_North Indian, Kerala, Chinese, Continental",0.0
+"cat__Cuisines_North Indian, Lucknowi",0.0
+"cat__Cuisines_North Indian, Maharashtrian",0.0
+"cat__Cuisines_North Indian, Mangalorean, Chinese",0.0
+"cat__Cuisines_North Indian, Mediterranean, Asian, Arabian",0.0
+"cat__Cuisines_North Indian, Mediterranean, Asian, Chinese",0.0
+"cat__Cuisines_North Indian, Mediterranean, Asian, Continental",0.0
+"cat__Cuisines_North Indian, Mediterranean, Asian, Fast Food",0.0
+"cat__Cuisines_North Indian, Mediterranean, Chinese",0.0
+"cat__Cuisines_North Indian, Mediterranean, Continental",0.0
+"cat__Cuisines_North Indian, Mexican, Chinese, Italian",0.0
+"cat__Cuisines_North Indian, Mexican, Italian",0.0
+"cat__Cuisines_North Indian, Mithai",0.0
+"cat__Cuisines_North Indian, Mithai, Chinese",0.0
+"cat__Cuisines_North Indian, Mithai, Street Food",0.0
+"cat__Cuisines_North Indian, Mughlai, Armenian",0.0
+"cat__Cuisines_North Indian, Mughlai, Awadhi",0.0
+"cat__Cuisines_North Indian, Mughlai, Chinese, Italian",0.0
+"cat__Cuisines_North Indian, Mughlai, Chinese, Mangalorean",0.0
+"cat__Cuisines_North Indian, Mughlai, Chinese, Raw Meats",0.0
+"cat__Cuisines_Asian, Japanese, Sushi",0.0
+"cat__Cuisines_Asian, Latin American, Vegetarian",0.0
+"cat__Cuisines_Asian, Mediterranean, North Indian",0.0
+"cat__Cuisines_Asian, North Indian",0.0
+"cat__Cuisines_Asian, North Indian, Japanese",0.0
+"cat__Cuisines_Asian, North Indian, Mughlai",0.0
+"cat__Cuisines_Asian, Seafood",0.0
+"cat__Cuisines_Asian, Sushi",0.0
+"cat__Cuisines_Asian, Sushi, Seafood",0.0
+"cat__Cuisines_Asian, Thai",0.0
+cat__City_Bandung,0.0
+"cat__Cuisines_Asian, Thai, Chinese, North Indian",0.0
+"cat__Cuisines_Asian, Thai, Vegetarian",0.0
+"cat__Cuisines_Asian, Vegetarian, Vietnamese",0.0
+"cat__Cuisines_North Indian, Mughlai, Chinese, Seafood",0.0
+"cat__Cuisines_North Indian, Mughlai, Continental",0.0
+"cat__Cuisines_North Indian, Mughlai, Hyderabadi",0.0
+"cat__Cuisines_North Indian, Mughlai, Kashmiri",0.0
+"cat__Cuisines_North Indian, Mughlai, Lebanese",0.0
+"cat__Cuisines_North Indian, Mughlai, Lebanese, Arabian, Mediterranean",0.0
+"cat__Cuisines_North Indian, Mughlai, Mexican, Thai",0.0
+cat__City_Dicky Beach,0.0
+cat__City_Doha,0.0
+cat__City_East Ballina,0.0
+cat__City_Edinburgh,0.0
+cat__City_Forrest,0.0
+cat__City_Hepburn Springs,0.0
+cat__City_Huskisson,0.0
+"cat__Cuisines_North Indian, Mughlai, Mughlai",0.0
+"cat__Cuisines_North Indian, Mughlai, Nepalese, Tibetan, Korean",0.0
+"cat__Cuisines_North Indian, Mughlai, Seafood",0.0
+"cat__Cuisines_North Indian, Mughlai, South Indian",0.0
+"cat__Cuisines_North Indian, Mughlai, South Indian, Chinese",0.0
+"cat__Cuisines_North Indian, Mughlai, South Indian, Rajasthani, Street Food",0.0
+"cat__Cuisines_North Indian, North Eastern, Continental",0.0
+"cat__Cuisines_North Indian, Rajasthani, Gujarati",0.0
+"cat__Cuisines_Asian, Bakery",0.0
+"cat__Cuisines_Asian, Breakfast, Hawaiian",0.0
+"cat__Cuisines_Asian, Chinese, Thai",0.0
+"cat__Cuisines_Asian, Chinese, Thai, Malaysian, Indonesian, Burmese",0.0
+"cat__Cuisines_Asian, Chinese, Tibetan",0.0
+"cat__Cuisines_Asian, Chinese, Vegetarian",0.0
+"cat__Cuisines_Asian, Continental",0.0
+"cat__Cuisines_Asian, Continental, Seafood",0.0
+"cat__Cuisines_Asian, European",0.0
+"cat__Cuisines_Asian, European, Seafood",0.0
+"cat__Cuisines_Asian, Japanese",0.0
+"cat__Cuisines_Asian, Japanese, Chinese, Thai",0.0
+"cat__Cuisines_Asian, Japanese, Korean, Thai, Chinese",0.0
+"cat__Cuisines_North Indian, Seafood, Continental",0.0
+"cat__Cuisines_North Indian, South Indian, Asian, Continental",0.0
+"cat__Cuisines_North Indian, South Indian, Bakery, Beverages",0.0
+"cat__Cuisines_North Indian, South Indian, Bihari",0.0
+"cat__Cuisines_North Indian, South Indian, Chinese, Fast Food, Bakery, Mithai",0.0
+"cat__Cuisines_North Indian, South Indian, Chinese, Healthy Food, Bakery",0.0
+"cat__Cuisines_North Indian, South Indian, Chinese, Street Food",0.0
+"cat__Cuisines_North Indian, South Indian, Continental, Fast Food",0.0
+"cat__Cuisines_North Indian, South Indian, Fast Food, Street Food, Chinese, Beverages, Desserts, Mithai",0.0
+"cat__Cuisines_North Indian, South Indian, Fast Food, Street Food, Chinese, Desserts, Mithai",0.0
+"cat__Cuisines_North Indian, South Indian, Fast Food, Street Food, Mithai",0.0
+"cat__Cuisines_North Indian, South Indian, Italian, Chinese",0.0
+"cat__Cuisines_North Indian, South Indian, Italian, Continental, Mediterranean, Lebanese, Desserts",0.0
+"cat__Cuisines_North Indian, South Indian, Mithai",0.0
+"cat__Cuisines_North Indian, South Indian, Street Food",0.0
+"cat__Cuisines_North Indian, South Indian, Street Food, Bakery",0.0
+"cat__Cuisines_North Indian, South Indian, Street Food, Mithai",0.0
+"cat__Cuisines_North Indian, Spanish, Mediterranean",0.0
+"cat__Cuisines_North Indian, Street Food, Beverages",0.0
+"cat__Cuisines_North Indian, Street Food, Fast Food, Chinese, South Indian, Mithai",0.0
+"cat__Cuisines_North Indian, Street Food, Mithai",0.0
+"cat__Cuisines_North Indian, Street Food, Mughlai",0.0
+"cat__Cuisines_North Indian, Street Food, South Indian, Mithai",0.0
+"cat__Cuisines_North Indian, Thai, Continental",0.0
+"cat__Cuisines_North Indian, Thai, Italian, Chinese, Mexican",0.0
+"cat__Cuisines_North Indian, Tibetan",0.0
+cat__Cuisines_Oriya,0.0
+cat__Cuisines_Pakistani,0.0
+"cat__Cuisines_Pakistani, Chinese, Indian, Afghani",0.0
+"cat__Cuisines_Pakistani, Indian",0.0
+"cat__Cuisines_Pakistani, Indian, Afghani, Curry",0.0
+cat__Cuisines_Parsi,0.0
+cat__Cuisines_Tibetan,0.0
+"cat__Cuisines_Parsi, North Indian",0.0
+"cat__Cuisines_Peranakan, Indonesian",0.0
+"cat__Cuisines_Pizza, Bar Food, Sandwich",0.0
+"cat__Cuisines_Pizza, Cafe, Italian",0.0
+"cat__Cuisines_Pizza, Chinese",0.0
+"cat__Cuisines_Pizza, Continental, Beverages",0.0
+"cat__Cuisines_Pizza, Desserts",0.0
+"cat__Cuisines_Pizza, Grill",0.0
+"cat__Cuisines_Pizza, Ice Cream",0.0
+"cat__Cuisines_Pizza, Italian, Beverages, Desserts",0.0
+"cat__Cuisines_Pizza, Mexican, Chinese, Italian",0.0
+"cat__Cuisines_Pizza, Salad, Finger Food",0.0
+cat__City_Boise,0.0
+cat__City_Bras�_lia,0.0
+cat__City_Cedar Rapids/Iowa City,0.0
+cat__City_Chandigarh,0.0
+cat__City_Chennai,0.0
+cat__City_Clatskanie,0.0
+cat__City_Cochrane,0.0
+"cat__Cuisines_American, Seafood, Italian, Japanese, Thai",0.0
+"cat__Cuisines_American, Seafood, Southern",0.0
+"cat__Cuisines_American, Seafood, Sushi",0.0
+"cat__Cuisines_American, Steak",0.0
+"cat__Cuisines_American, Tapas",0.0
+"cat__Cuisines_American, Tex-Mex",0.0
+cat__Cuisines_Andhra,0.0
+"cat__Cuisines_Andhra, North Indian, Chinese",0.0
+"cat__Cuisines_Arabian, Mexican",0.0
+"cat__Cuisines_Arabian, Middle Eastern",0.0
+"cat__Cuisines_Arabian, North Indian",0.0
+"cat__Cuisines_Argentine, American",0.0
+"cat__Cuisines_Asian Fusion, Cafe",0.0
+cat__City_Consort,0.0
+cat__City_Dalton,0.0
+"cat__Cuisines_Pizza, Seafood, Steak",0.0
+"cat__Cuisines_Tibetan, Chinese, North Indian",0.0
+"cat__Cuisines_Portuguese, African, Lebanese",0.0
+cat__Cuisines_Pub Food,0.0
+cat__Cuisines_Rajasthani,0.0
+"cat__Cuisines_Rajasthani, North Indian",0.0
+cat__Cuisines_Raw Meats,0.0
+"cat__Cuisines_Raw Meats, North Indian",0.0
+"cat__Cuisines_Raw Meats, North Indian, Chinese, Fast Food",0.0
+"cat__Cuisines_Restaurant Cafe, Desserts",0.0
+"cat__Cuisines_Restaurant Cafe, Turkish, Desserts",0.0
+"cat__Cuisines_Salad, Healthy Food, Burger, Italian, Continental, Chinese, North Indian, Beverages",0.0
+cat__Cuisines_Sandwich,0.0
+"cat__Cuisines_Sandwich, Seafood, Cajun",0.0
+"cat__Cuisines_Sandwich, Seafood, Steak",0.0
+"cat__Cuisines_Scottish, Cafe",0.0
+"cat__Cuisines_Seafood, African, Sushi",0.0
+"cat__Cuisines_Seafood, American, Mediterranean, Japanese",0.0
+"cat__Cuisines_Seafood, Asian, Filipino, Indian",0.0
+"cat__Cuisines_Seafood, Asian, Grill, Sushi",0.0
+"cat__Cuisines_Seafood, Bar Food, Brazilian",0.0
+"cat__Cuisines_Seafood, Chinese",0.0
+"cat__Cuisines_Seafood, Chinese, Japanese, Sushi, Thai",0.0
+"cat__Cuisines_Seafood, Chinese, Japanese, Vietnamese, Asian, Thai",0.0
+"cat__Cuisines_Seafood, Chinese, Thai",0.0
+"cat__Cuisines_Seafood, Continental, European",0.0
+"cat__Cuisines_Seafood, Filipino, Asian, European",0.0
+"cat__Cuisines_Seafood, Japanese, Sushi",0.0
+"cat__Cuisines_Seafood, Kiwi",0.0
+"cat__Cuisines_Seafood, Mughlai, North Indian",0.0
+"cat__Cuisines_Seafood, North Indian",0.0
+"cat__Cuisines_American, Italian, Seafood",0.0
+"cat__Cuisines_Tibetan, Nepalese",0.0
+"cat__Cuisines_American, Mexican",0.0
+"cat__Cuisines_American, Mexican, Burger",0.0
+"cat__Cuisines_American, Mexican, Finger Food",0.0
+"cat__Cuisines_American, Mexican, Seafood",0.0
+"cat__Cuisines_American, North Indian, Thai, Continental",0.0
+"cat__Cuisines_American, Pizza",0.0
+"cat__Cuisines_American, Sandwich, Salad",0.0
+"cat__Cuisines_American, Sandwich, Tea",0.0
+"cat__Cuisines_American, Seafood",0.0
+"cat__Cuisines_American, Seafood, Cajun",0.0
+"cat__Cuisines_Seafood, Southern",0.0
+"cat__Cuisines_Seafood, Steak",0.0
+"cat__Cuisines_Seafood, Steak, Vegetarian",0.0
+"cat__Cuisines_Seafood, Sushi",0.0
+"cat__Cuisines_Singaporean, Australian, German",0.0
+cat__Cuisines_South American,0.0
+"cat__Cuisines_South Indian, Andhra",0.0
+"cat__Cuisines_South Indian, Biryani",0.0
+"cat__Cuisines_South Indian, Chettinad",0.0
+"cat__Cuisines_South Indian, Chettinad, North Indian",0.0
+"cat__Cuisines_South Indian, Chettinad, North Indian, Chinese",0.0
+"cat__Cuisines_South Indian, Chinese, Continental",0.0
+"cat__Cuisines_South Indian, Chinese, Fast Food",0.0
+"cat__Cuisines_South Indian, Chinese, Mughlai",0.0
+"cat__Cuisines_South Indian, Chinese, North Indian",0.0
+"cat__Cuisines_South Indian, Desserts",0.0
+"cat__Cuisines_South Indian, Fast Food, Chinese",0.0
+"cat__Cuisines_South Indian, Fast Food, Street Food",0.0
+"cat__Cuisines_South Indian, Kerala",0.0
+"cat__Cuisines_South Indian, Nepalese",0.0
+"cat__Cuisines_South Indian, North Indian, Chinese, Fast Food, Street Food, Mithai",0.0
+"cat__Cuisines_South Indian, North Indian, Chinese, Street Food, Fast Food",0.0
+"cat__Cuisines_South Indian, North Indian, Fast Food",0.0
+"cat__Cuisines_South Indian, Street Food",0.0
+"cat__Cuisines_South Indian, Street Food, Chinese",0.0
+"cat__Cuisines_South Indian, Street Food, Mithai",0.0
+"cat__Cuisines_Spanish, Italian",0.0
+"cat__Cuisines_Tea, Cafe",0.0
+cat__Cuisines_Sri Lankan,0.0
+"cat__Cuisines_Steak, American",0.0
+"cat__Cuisines_Steak, BBQ",0.0
+"cat__Cuisines_Steak, Seafood, Grill",0.0
+"cat__Cuisines_Steak, Tapas, Bar Food",0.0
+"cat__Cuisines_Street Food, Burger, American, Finger Food, German",0.0
+"cat__Cuisines_Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food",0.0
+"cat__Cuisines_Street Food, Chinese",0.0
+"cat__Cuisines_Street Food, Chinese, North Indian",0.0
+"cat__Cuisines_American, Finger Food",0.0
+"cat__Cuisines_American, French",0.0
+"cat__Cuisines_American, Greek",0.0
+"cat__Cuisines_American, Greek, Seafood",0.0
+"cat__Cuisines_American, Hawaiian",0.0
+"cat__Cuisines_American, Ice Cream, Desserts",0.0
+"cat__Cuisines_American, International, Southwestern",0.0
+"cat__Cuisines_American, Italian, Cafe",0.0
+"cat__Cuisines_American, Italian, Chinese",0.0
+"cat__Cuisines_American, Italian, Chinese, North Indian, Cafe",0.0
+"cat__Cuisines_American, Italian, Mughlai, North Indian",0.0
+"cat__Cuisines_American, Italian, North Indian, Chinese",0.0
+"cat__Cuisines_American, Italian, North Indian, European, Thai",0.0
+"cat__Cuisines_Street Food, Chinese, North Indian, Mithai",0.0
+"cat__Cuisines_Street Food, Continental, South Indian, North Indian, Chinese",0.0
+"cat__Cuisines_Street Food, Fast Food, Beverages",0.0
+"cat__Cuisines_Street Food, Fast Food, North Indian",0.0
+"cat__Cuisines_Street Food, Mughlai",0.0
+"cat__Cuisines_Street Food, North Indian, Chinese, Continental",0.0
+"cat__Cuisines_Street Food, North Indian, South Indian",0.0
+"cat__Cuisines_Street Food, North Indian, South Indian, Chinese",0.0
+"cat__Cuisines_Street Food, North Indian, South Indian, Chinese, Mithai",0.0
+"cat__Cuisines_Street Food, North Indian, South Indian, Mithai",0.0
+"cat__Cuisines_Street Food, South Indian, Chinese",0.0
+"cat__Cuisines_Sunda, Indonesian",0.0
+cat__Country Code_37,0.0
+"cat__Cuisines_Sushi, Japanese",0.0
+"cat__Cuisines_Sushi, Japanese, Cantonese",0.0
+"cat__Cuisines_Sushi, Japanese, Healthy Food",0.0
+"cat__Cuisines_Sushi, Thai",0.0
+"cat__Cuisines_Taiwanese, Street Food",0.0
+cat__Cuisines_Tea,0.0
+"cat__Cuisines_Tea, Beverages, Fast Food",0.0
+"cat__Cuisines_Chinese, Italian",0.0
+cat__Currency_NewZealand($),0.0
+cat__Currency_Qatari Rial(QR),0.0
+cat__Currency_Sri Lankan Rupee(LKR),0.0
+cat__Currency_Turkish Lira(TL),0.0
+"cat__Cuisines_American, Continental, Italian",0.0
+"cat__Cuisines_American, Continental, Italian, Bakery",0.0
+"cat__Cuisines_American, Desserts",0.0
+"cat__Cuisines_American, Desserts, Steak",0.0
+"cat__Cuisines_American, Diner, Southern",0.0
+"cat__Cuisines_American, European, North Indian",0.0
+"cat__Cuisines_American, European, Sandwich",0.0
+"cat__Cuisines_American, Fast Food, Desserts, Steak",0.0
+"cat__Cuisines_Thai, Asian",0.0
+"cat__Cuisines_Thai, Chinese",0.0
+"cat__Cuisines_Tibetan, South Indian, North Indian",0.0
+"cat__Cuisines_Thai, Chinese, Asian",0.0
+"cat__Cuisines_Thai, Chinese, North Indian",0.0
+"cat__Cuisines_Thai, Chinese, Seafood",0.0
+"cat__Cuisines_Thai, Japanese",0.0
+"cat__Cuisines_Thai, Japanese, Chinese, Indonesian, Vietnamese",0.0
+cat__City_Ankara,0.0
+cat__City_Armidale,0.0
+"cat__Cuisines_Tibetan, Street Food",0.0
+cat__Country Code_166,0.0
+"cat__Cuisines_Vietnamese, Fish and Chips",0.0
+"cat__Cuisines_Western, Asian, Cafe",0.0
+cat__Cuisines_Turkish Pizza,0.0
+cat__Cuisines_World Cuisine,0.0
+cat__Country Code_148,0.0
+cat__Country Code_94,0.0
+cat__Country Code_184,0.0
